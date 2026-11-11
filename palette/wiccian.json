@@ -1,0 +1,143 @@
+{
+  "name": "Wiccian",
+  "version": "1.0.0",
+  "rule": "The sum of the six hex digits (A = 10 … F = 15) divides by 3.",
+  "aligned": "17 Oct 2026, approved by Sarah: originals nudged by one hex step.",
+  "colours": {
+    "neutrals": {
+      "deep-taupe": {
+        "name": "Deep Taupe",
+        "hex": "#504243",
+        "use": "dark text, depth",
+        "contrastOnSand": 9.1
+      },
+      "sand": {
+        "name": "Sand",
+        "hex": "#fef8f2",
+        "original": "#fef8f3",
+        "use": "light background",
+        "contrastOnSand": 1
+      },
+      "antique-rose": {
+        "name": "Antique Rose",
+        "hex": "#9e7d77",
+        "use": "icons and large text only",
+        "contrastOnSand": 3.5
+      },
+      "ivory": {
+        "name": "Ivory",
+        "hex": "#ebdfca",
+        "original": "#ebdfcb",
+        "use": "soft surfaces",
+        "contrastOnSand": 1.2
+      }
+    },
+    "blues": {
+      "deep-ocean": {
+        "name": "Deep Ocean",
+        "hex": "#003a6b",
+        "original": "#003a6c",
+        "use": "strong text, night surfaces",
+        "contrastOnSand": 11
+      },
+      "ocean": {
+        "name": "Ocean",
+        "hex": "#3f6cab",
+        "use": "links, calm actions",
+        "contrastOnSand": 5.1
+      },
+      "ether": {
+        "name": "Ether",
+        "hex": "#4999bc",
+        "original": "#4999bb",
+        "use": "accents, decoration",
+        "contrastOnSand": 3
+      },
+      "sky": {
+        "name": "Sky",
+        "hex": "#add2e8",
+        "use": "info surfaces",
+        "contrastOnSand": 1.5
+      }
+    },
+    "greens": {
+      "midnight-teal": {
+        "name": "Midnight Teal",
+        "hex": "#305d60",
+        "use": "grounded accents",
+        "contrastOnSand": 7
+      },
+      "forest": {
+        "name": "Forest",
+        "hex": "#455f46",
+        "original": "#455f45",
+        "use": "success text",
+        "contrastOnSand": 6.7
+      },
+      "emerald": {
+        "name": "Emerald",
+        "hex": "#7b9477",
+        "original": "#7b9476",
+        "use": "success icons",
+        "contrastOnSand": 3.1
+      },
+      "sage": {
+        "name": "Sage",
+        "hex": "#d7e5d5",
+        "original": "#d7e5d4",
+        "use": "calm surfaces, light buttons",
+        "contrastOnSand": 1.2
+      }
+    },
+    "warm": {
+      "terracotta": {
+        "name": "Terracotta",
+        "hex": "#bb4e47",
+        "use": "heart accents",
+        "contrastOnSand": 4.6
+      },
+      "coral": {
+        "name": "Coral",
+        "hex": "#ed9378",
+        "use": "glow and logo, never text on light",
+        "contrastOnSand": 2.2
+      },
+      "gold": {
+        "name": "Gold",
+        "hex": "#ffd377",
+        "original": "#ffd378",
+        "use": "highlights, stars",
+        "contrastOnSand": 1.3
+      }
+    },
+    "identity": {
+      "leela": {
+        "name": "Leela",
+        "hex": "#30006c",
+        "use": "identity, headings",
+        "contrastOnSand": 14.8
+      },
+      "lumina": {
+        "name": "Lumina",
+        "hex": "#d5bc6d",
+        "original": "#d5bd6d",
+        "use": "the action colour, ✦",
+        "contrastOnSand": 1.8
+      },
+      "dark-violet": {
+        "name": "Dark Violet",
+        "hex": "#5d3fb4",
+        "use": "wiccian.io accent",
+        "contrastOnSand": 7
+      },
+      "rose-gold": {
+        "name": "Rose Gold",
+        "hex": "#f2d6cf",
+        "original": "#f2d6ce",
+        "use": "wiccian.io soft accent",
+        "note": "proposed, not yet approved",
+        "contrastOnSand": 1.3
+      }
+    }
+  }
+}
