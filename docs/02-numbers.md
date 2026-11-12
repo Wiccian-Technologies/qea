@@ -1,8 +1,8 @@
-# 2 ✦ Numbers · 369 · 888
+# 2 ✦ Numbers · 369
 
 ∞ ∞ ∞
 
-Focusing on certain numbers has protective, connecting and manifesting effects. QEA works with the power of **3 · 6 · 9** and with the master patterns **108**, **144**, **432** and **888**.
+Focusing on certain numbers has protective, connecting and manifesting effects. QEA works with the power of **3 · 6 · 9** and with the master patterns **108**, **144** and **432**.
 
 ## The Rule
 
@@ -12,7 +12,7 @@ A free number divides by **3**, ideally by **9**.
 3 · 6 · 9 · 12 · 18 · 24 · 27 · 36 · 45 · 54 · 72 · 81 · 108 · 144 · 162 · 216 · 324 · 432 · 648 · 864 · 1080 · 1296 · 1440 · 2160
 ```
 
-Decimals align by their digits: **8.88**, **2.22**, **1.11**, **0.36** (the digits sum to a multiple of 3).
+Decimals align by their digits: **3.33**, **6.66**, **9.99**, **1.11**, **0.36** (the digits sum to a multiple of 3).
 
 ## Layout
 
@@ -45,19 +45,19 @@ Decimals align by their digits: **8.88**, **2.22**, **1.11**, **0.36** (the digi
 |---|---|
 | Short names | 36 or 54 characters |
 | Titles, labels | 72 characters |
-| Messages, wishes | **144** characters (12 × 12) |
+| Messages, short notes | **144** characters (12 × 12) |
 | Short texts | 216 characters; long texts 1008 or 2160 |
-| Items in a list or grid | 3, 6, 9 (e.g. up to 9 offerings) |
+| Items in a list or grid | 3, 6, 9 |
 | Per page | 36 or 108 |
 | Daily uses | 3, 6, 9, 36, 108 |
 | File sizes | 3, 6, 9, 36, 108 MB |
 
 ## Money and Shares
 
-When the price or share is ours to set, align it:
+When the price or share is yours to set, align it:
 
-- Percentages: **8.88 %**, **2.22 %**, **1.11 %**, 3 %, 9 %, 18 %, 36 %, 54 %, 72 %. Transparency in colour mixes too: 9, 18, 36, 54, 72 %.
-- Prices: 9, 36, 108, 144, 369, 699, 888, 999. A client's own price stays theirs.
+- Percentages: 3 %, 6 %, 9 %, 12 %, 18 %, 36 %, 54 %, 72 %, or decimals such as 3.33 % and 6.66 %. Transparency in colour mixes too: 9, 18, 36, 54, 72 %.
+- Prices: 9, 27, 36, 108, 144, 369, 699, 999. A client's own price stays theirs.
 
 ## Pictures
 
@@ -66,6 +66,25 @@ Longest edge 144, 216, 432, 720, 1080, 1296, 1440 or 2160 px. Standards keep the
 ## Turning a Number
 
 `nearestAligned(n)` gives the closest aligned number (`16 → 15`, `17 → 18`); with `{ strong: true }` the closest multiple of 9 (`100 → 99`). Prefer the value that looks or works best among the two nearest, and take 9 over 3 when both work.
+
+## Grabovoi Sequences
+
+Grigori Grabovoi published number sequences meant to focus attention on an intention. People read them, write them, speak them, or keep them where they see them often. In QEA they belong to **intention**, not to layout: a sequence is used exactly as it is written (it is never rounded to 3 · 6 · 9) and marked `qea-ignore` in code.
+
+| Sequence | Intention, as commonly given | Digit sum |
+|---|---|---|
+| 71931 | protection | 21 ✓ |
+| 318 798 | growth of abundance | 36 ✓ |
+| 520 741 8 | unexpected abundance | 27 ✓ |
+| 519 7148 | everything is possible | 35 |
+
+How to use them in a product, quietly and with consent:
+
+- **In the making:** in an intention comment at the top of a module, in a project's name or a team ritual, in the background of a print file.
+- **In what users see,** only where your audience knows and welcomes them (a wellbeing app, a retreat, a coaching programme), with the intention named in words beside them.
+- **Never** as a promise of health, money or results, and never hidden in a way that would surprise users who don't share the practice.
+
+Take sequences from Grabovoi's published books, not from lists online, and keep the spaces as written; the meanings above are how they are commonly cited.
 
 ---
 [← Principles](01-principles.md) · [Colours →](03-colours.md)

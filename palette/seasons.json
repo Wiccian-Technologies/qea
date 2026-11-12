@@ -1,0 +1,217 @@
+{
+  "name": "QEA Season Palettes",
+  "version": "1.1.0",
+  "rule": "The sum of the six hex digits (A = 10 … F = 15) divides by 3.",
+  "seasons": {
+    "spring": {
+      "element": "Wood",
+      "feel": "awakening, growth, new beginnings",
+      "colours": {
+        "deep-fern": {
+          "name": "Deep Fern",
+          "hex": "#2e6b39",
+          "contrastOnWhite": 6.4,
+          "text": "text on light"
+        },
+        "leaf": {
+          "name": "Leaf",
+          "hex": "#5f9b4d",
+          "contrastOnWhite": 3.3,
+          "text": "text-safe background for dark text"
+        },
+        "fresh-shoot": {
+          "name": "Fresh Shoot",
+          "hex": "#a8d08c",
+          "contrastOnWhite": 1.7,
+          "text": "text-safe background for dark text"
+        },
+        "blossom": {
+          "name": "Blossom",
+          "hex": "#f4c6d1",
+          "contrastOnWhite": 1.5,
+          "text": "text-safe background for dark text"
+        },
+        "spring-sky": {
+          "name": "Spring Sky",
+          "hex": "#cfe6f4",
+          "contrastOnWhite": 1.3,
+          "text": "text-safe background for dark text"
+        },
+        "morning-light": {
+          "name": "Morning Light",
+          "hex": "#f6f9ed",
+          "contrastOnWhite": 1.1,
+          "text": "text-safe background for dark text"
+        }
+      }
+    },
+    "summer": {
+      "element": "Fire",
+      "feel": "fullness, joy, warmth, connection",
+      "colours": {
+        "ember": {
+          "name": "Ember",
+          "hex": "#9c2a1e",
+          "contrastOnWhite": 7.6,
+          "text": "text on light"
+        },
+        "coral": {
+          "name": "Coral",
+          "hex": "#e8735b",
+          "contrastOnWhite": 3,
+          "text": "text-safe background for dark text"
+        },
+        "sun-orange": {
+          "name": "Sun Orange",
+          "hex": "#f29e3e",
+          "contrastOnWhite": 2.2,
+          "text": "text-safe background for dark text"
+        },
+        "hibiscus": {
+          "name": "Hibiscus",
+          "hex": "#d94f79",
+          "contrastOnWhite": 3.9,
+          "text": "text-safe background for dark text"
+        },
+        "sunflower": {
+          "name": "Sunflower",
+          "hex": "#fbd969",
+          "contrastOnWhite": 1.4,
+          "text": "text-safe background for dark text"
+        },
+        "warm-light": {
+          "name": "Warm Light",
+          "hex": "#fff4e9",
+          "contrastOnWhite": 1.1,
+          "text": "text-safe background for dark text"
+        }
+      }
+    },
+    "lateSummer": {
+      "element": "Earth",
+      "feel": "harvest, nourishment, stability",
+      "colours": {
+        "umber": {
+          "name": "Umber",
+          "hex": "#6b4a2c",
+          "contrastOnWhite": 8,
+          "text": "text on light"
+        },
+        "terracotta": {
+          "name": "Terracotta",
+          "hex": "#b5643d",
+          "contrastOnWhite": 4.3,
+          "text": "text-safe background for dark text"
+        },
+        "ochre": {
+          "name": "Ochre",
+          "hex": "#c9962d",
+          "contrastOnWhite": 2.7,
+          "text": "text-safe background for dark text"
+        },
+        "sand": {
+          "name": "Sand",
+          "hex": "#e8d3a9",
+          "contrastOnWhite": 1.5,
+          "text": "text-safe background for dark text"
+        },
+        "wheat": {
+          "name": "Wheat",
+          "hex": "#f3e6c4",
+          "contrastOnWhite": 1.2,
+          "text": "text-safe background for dark text"
+        },
+        "clay-light": {
+          "name": "Clay Light",
+          "hex": "#faf3e6",
+          "contrastOnWhite": 1.1,
+          "text": "text-safe background for dark text"
+        }
+      }
+    },
+    "autumn": {
+      "element": "Metal",
+      "feel": "clarity, letting go, refinement",
+      "colours": {
+        "graphite": {
+          "name": "Graphite",
+          "hex": "#3d3f44",
+          "contrastOnWhite": 10.5,
+          "text": "text on light"
+        },
+        "rust": {
+          "name": "Rust",
+          "hex": "#9b4a23",
+          "contrastOnWhite": 6.2,
+          "text": "text on light"
+        },
+        "burnished-gold": {
+          "name": "Burnished Gold",
+          "hex": "#b08d3d",
+          "contrastOnWhite": 3.1,
+          "text": "text-safe background for dark text"
+        },
+        "silver": {
+          "name": "Silver",
+          "hex": "#a9aeb3",
+          "contrastOnWhite": 2.2,
+          "text": "text-safe background for dark text"
+        },
+        "pearl": {
+          "name": "Pearl",
+          "hex": "#ecebe7",
+          "contrastOnWhite": 1.2,
+          "text": "text-safe background for dark text"
+        },
+        "clear-white": {
+          "name": "Clear White",
+          "hex": "#fbfbf8",
+          "contrastOnWhite": 1,
+          "text": "text-safe background for dark text"
+        }
+      }
+    },
+    "winter": {
+      "element": "Water",
+      "feel": "rest, depth, wisdom, renewal within",
+      "colours": {
+        "night-ink": {
+          "name": "Night Ink",
+          "hex": "#0b1321",
+          "contrastOnWhite": 18.6,
+          "text": "text on light"
+        },
+        "midnight": {
+          "name": "Midnight",
+          "hex": "#14213d",
+          "contrastOnWhite": 16,
+          "text": "text on light"
+        },
+        "deep-water": {
+          "name": "Deep Water",
+          "hex": "#1f4e7a",
+          "contrastOnWhite": 8.6,
+          "text": "text on light"
+        },
+        "slate": {
+          "name": "Slate",
+          "hex": "#4a5d73",
+          "contrastOnWhite": 6.8,
+          "text": "text on light"
+        },
+        "ice": {
+          "name": "Ice",
+          "hex": "#cfe0ee",
+          "contrastOnWhite": 1.4,
+          "text": "text-safe background for dark text"
+        },
+        "frost": {
+          "name": "Frost",
+          "hex": "#eef3f8",
+          "contrastOnWhite": 1.1,
+          "text": "text-safe background for dark text"
+        }
+      }
+    }
+  }
+}

@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// ✦ Wiccian QEA check: finds colours and sizes that aren't aligned to 3 · 6 · 9, and suggests the nearest aligned
+// ✦ QEA check: finds colours and sizes that aren't aligned to 3 · 6 · 9, and suggests the nearest aligned
 // value. No dependencies.
 //   node tools/qea-check.mjs <files or folders …> [--colours] [--numbers] [--strong]
 // --colours / --numbers check only one kind; --strong asks numbers to divide by 9. Exit code 1 when something is

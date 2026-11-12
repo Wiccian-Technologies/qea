@@ -1,0 +1,155 @@
+{
+  "name": "QEA Starter Palette",
+  "version": "1.1.0",
+  "rule": "The sum of the six hex digits (A = 10 … F = 15) divides by 3.",
+  "note": "A neutral starting point: nine hue families, each with a strong colour (text-safe on Paper, 4.5 : 1 or more) and a soft surface. Replace it with your brand's own colours, aligned.",
+  "colours": {
+    "neutral": {
+      "feel": "Ground and rest: structure, focus, quiet",
+      "ink": {
+        "name": "Ink",
+        "hex": "#1f2327",
+        "use": "body text, headings",
+        "contrastOnPaper": 15.1
+      },
+      "paper": {
+        "name": "Paper",
+        "hex": "#fafaf7",
+        "use": "page background",
+        "contrastOnPaper": 1
+      },
+      "stone": {
+        "name": "Stone",
+        "hex": "#5f6670",
+        "use": "secondary text, borders that must be seen",
+        "contrastOnPaper": 5.5
+      },
+      "mist": {
+        "name": "Mist",
+        "hex": "#eef1f4",
+        "use": "cards, quiet surfaces",
+        "contrastOnPaper": 1.1
+      }
+    },
+    "blue": {
+      "feel": "Trust, calm, clarity, depth",
+      "blue": {
+        "name": "Blue",
+        "hex": "#2a5db1",
+        "use": "links, the main action",
+        "contrastOnPaper": 6.1
+      },
+      "sky": {
+        "name": "Sky",
+        "hex": "#dbe8f8",
+        "use": "information surfaces",
+        "contrastOnPaper": 1.2
+      }
+    },
+    "teal": {
+      "feel": "Balance, renewal, clear thinking",
+      "teal": {
+        "name": "Teal",
+        "hex": "#1f6f77",
+        "use": "secondary actions, accents",
+        "contrastOnPaper": 5.6
+      },
+      "aqua": {
+        "name": "Aqua",
+        "hex": "#d8f0ed",
+        "use": "soft highlights",
+        "contrastOnPaper": 1.1
+      }
+    },
+    "green": {
+      "feel": "Growth, health, safety, 'go'",
+      "green": {
+        "name": "Green",
+        "hex": "#2f7a53",
+        "use": "success text and icons",
+        "contrastOnPaper": 5
+      },
+      "mint": {
+        "name": "Mint",
+        "hex": "#dcefe4",
+        "use": "success surfaces",
+        "contrastOnPaper": 1.1
+      }
+    },
+    "amber": {
+      "feel": "Optimism, warmth, attention",
+      "amber": {
+        "name": "Amber",
+        "hex": "#946008",
+        "use": "warning text",
+        "contrastOnPaper": 5.1
+      },
+      "cream": {
+        "name": "Cream",
+        "hex": "#fbefd7",
+        "use": "warning and highlight surfaces",
+        "contrastOnPaper": 1.1
+      }
+    },
+    "orange": {
+      "feel": "Energy, friendliness, invitation",
+      "orange": {
+        "name": "Orange",
+        "hex": "#b04a14",
+        "use": "friendly accents, badges",
+        "contrastOnPaper": 5.2
+      },
+      "peach": {
+        "name": "Peach",
+        "hex": "#fbe5d5",
+        "use": "warm surfaces",
+        "contrastOnPaper": 1.2
+      }
+    },
+    "red": {
+      "feel": "Urgency, passion, danger, 'stop'",
+      "red": {
+        "name": "Red",
+        "hex": "#b3261d",
+        "use": "errors, destructive actions",
+        "contrastOnPaper": 6.3
+      },
+      "blush": {
+        "name": "Blush",
+        "hex": "#f9dedb",
+        "use": "error surfaces",
+        "contrastOnPaper": 1.2
+      }
+    },
+    "rose": {
+      "feel": "Care, tenderness, compassion",
+      "rose": {
+        "name": "Rose",
+        "hex": "#a3365f",
+        "use": "caring accents",
+        "contrastOnPaper": 6.2
+      },
+      "petal": {
+        "name": "Petal",
+        "hex": "#f8e1eb",
+        "use": "gentle surfaces",
+        "contrastOnPaper": 1.2
+      }
+    },
+    "violet": {
+      "feel": "Imagination, wisdom, the spiritual",
+      "violet": {
+        "name": "Violet",
+        "hex": "#6b4fba",
+        "use": "creative accents",
+        "contrastOnPaper": 5.8
+      },
+      "lavender": {
+        "name": "Lavender",
+        "hex": "#e9e3f8",
+        "use": "reflective surfaces",
+        "contrastOnPaper": 1.2
+      }
+    }
+  }
+}

@@ -29,7 +29,7 @@ Define the aligned scale once and use only that.
 **CSS:**
 
 ```css
-@import "qea/palette/wiccian.css";
+@import "qea/palette/starter.css";
 
 :root {
   --space: 3px; /* everything is a multiple of 3 */
@@ -73,10 +73,10 @@ node tools/qea-check.mjs src/
 
 ## Intention Comments
 
-Compilers ignore comments; the intention in them stays. A module may open with one line of intention: what it serves and for whom.
+Compilers ignore comments; the intention in them stays. A Grabovoi sequence may sit in one, written as published and marked `qea-ignore`. A module may open with one line of intention: what it serves and for whom.
 
 ```ts
-// ✦ Members send HERZ to each other: final, never overdrawn, always received with gratitude.
+// ✦ Customers book a session in three steps: clear, calm and confirmed at once.
 ```
 
 Keep them true, short and kind, and never put secrets or noise in them.

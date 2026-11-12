@@ -1,4 +1,4 @@
-// ✦ Tests for the QEA functions and the Wiccian palette:  node --test tools/
+// ✦ Tests for the QEA functions and the palettes:  node --test tools/
 import { test } from "node:test";
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
@@ -32,7 +32,7 @@ test("a colour is aligned when its hex digits sum to a multiple of 3", () => {
   assert.equal(isAlignedHex("#fff"), true);
 });
 
-test("alignHex nudges by one step, as the Wiccian palette was aligned", () => {
+test("alignHex nudges by one step, invisibly", () => {
   assert.equal(alignHex("#fef8f3")[0], "#fef8f2"); // qea-ignore
   assert.equal(alignHex("#003a6c")[0], "#003a6b"); // qea-ignore
   assert.deepEqual(alignHex("#3f6cab"), ["#3f6cab"]);
@@ -43,12 +43,17 @@ test("contrast is measured as WCAG does", () => {
   assert.equal(Math.round(contrast("#000000", "#ffffff")), 21);
 });
 
-test("every colour of the Wiccian palette is aligned, and its original is kept beside it", () => {
-  const palette = JSON.parse(readFileSync(new URL("../palette/wiccian.json", import.meta.url), "utf8"));
-  for (const group of Object.values(palette.colours)) {
+test("every colour of the starter and season palettes is aligned, and every strong starter colour carries text", () => {
+  const read = (f) => JSON.parse(readFileSync(new URL(`../palette/${f}`, import.meta.url), "utf8"));
+  const starter = read("starter.json");
+  for (const group of Object.values(starter.colours)) {
     for (const [name, c] of Object.entries(group)) {
+      if (typeof c !== "object") continue;
       assert.equal(isAlignedHex(c.hex), true, `${name} ${c.hex}`);
-      if (c.original) assert.equal(alignHex(c.original).includes(c.hex), true, `${name}: ${c.original} → ${c.hex}`);
+      if (c.contrastOnPaper > 1.5) assert.ok(contrast(c.hex, starter.colours.neutral.paper.hex) >= 4.5, `${name} on Paper`);
     }
+  }
+  for (const season of Object.values(read("seasons.json").seasons)) {
+    for (const [name, c] of Object.entries(season.colours)) assert.equal(isAlignedHex(c.hex), true, `${name} ${c.hex}`);
   }
 });

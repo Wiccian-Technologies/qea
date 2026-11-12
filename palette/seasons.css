@@ -1,0 +1,38 @@
+/* ✦ QEA season palettes: six colours for each season and its Feng Shui element, aligned to 3 · 6 · 9. Generated from seasons.json. */
+:root {
+  /* spring · Wood: awakening, growth, new beginnings */
+  --qea-spring-deep-fern: #2e6b39;
+  --qea-spring-leaf: #5f9b4d;
+  --qea-spring-fresh-shoot: #a8d08c;
+  --qea-spring-blossom: #f4c6d1;
+  --qea-spring-spring-sky: #cfe6f4;
+  --qea-spring-morning-light: #f6f9ed;
+  /* summer · Fire: fullness, joy, warmth, connection */
+  --qea-summer-ember: #9c2a1e;
+  --qea-summer-coral: #e8735b;
+  --qea-summer-sun-orange: #f29e3e;
+  --qea-summer-hibiscus: #d94f79;
+  --qea-summer-sunflower: #fbd969;
+  --qea-summer-warm-light: #fff4e9;
+  /* lateSummer · Earth: harvest, nourishment, stability */
+  --qea-late-summer-umber: #6b4a2c;
+  --qea-late-summer-terracotta: #b5643d;
+  --qea-late-summer-ochre: #c9962d;
+  --qea-late-summer-sand: #e8d3a9;
+  --qea-late-summer-wheat: #f3e6c4;
+  --qea-late-summer-clay-light: #faf3e6;
+  /* autumn · Metal: clarity, letting go, refinement */
+  --qea-autumn-graphite: #3d3f44;
+  --qea-autumn-rust: #9b4a23;
+  --qea-autumn-burnished-gold: #b08d3d;
+  --qea-autumn-silver: #a9aeb3;
+  --qea-autumn-pearl: #ecebe7;
+  --qea-autumn-clear-white: #fbfbf8;
+  /* winter · Water: rest, depth, wisdom, renewal within */
+  --qea-winter-night-ink: #0b1321;
+  --qea-winter-midnight: #14213d;
+  --qea-winter-deep-water: #1f4e7a;
+  --qea-winter-slate: #4a5d73;
+  --qea-winter-ice: #cfe0ee;
+  --qea-winter-frost: #eef3f8;
+}

@@ -1,13 +1,15 @@
 {
   "name": "@wiccian/qea",
-  "version": "1.0.0",
-  "description": "Wiccian QEA Framework: Quantum Energy Alignment rules (3 · 6 · 9, colours, elements, symbols, words) and tools to check a project.",
+  "version": "1.1.0",
+  "description": "QEA Framework: Quantum Energy Alignment rules (3 · 6 · 9, colours, elements and seasons, symbols, words) and tools to check a project.",
   "type": "module",
   "private": true,
   "exports": {
     ".": "./tools/qea.mjs",
-    "./palette.json": "./palette/wiccian.json",
-    "./palette.css": "./palette/wiccian.css"
+    "./palette.json": "./palette/starter.json",
+    "./palette.css": "./palette/starter.css",
+    "./seasons.json": "./palette/seasons.json",
+    "./seasons.css": "./palette/seasons.css"
   },
   "bin": { "qea-check": "./tools/qea-check.mjs" },
   "scripts": {

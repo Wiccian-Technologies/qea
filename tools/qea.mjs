@@ -1,4 +1,4 @@
-// ✦ Wiccian QEA: the 3 · 6 · 9 alignment rules as plain functions. No dependencies; runs in Node and browsers.
+// ✦ QEA: the 3 · 6 · 9 alignment rules as plain functions. No dependencies; runs in Node and browsers.
 
 /** The aligned scale most designs need, small to large. Every value is divisible by 3; the bold ones by 9. */
 export const SCALE = [3, 6, 9, 12, 18, 24, 27, 36, 45, 54, 72, 81, 108, 144, 162, 216, 324, 432, 648, 864, 1080, 1296, 1440, 1728, 2160];
@@ -56,7 +56,7 @@ function distance(a, b) {
 }
 
 /**
- * Aligned colours next to `hex`, best first, the way Wiccian aligned its palette: one hex step on the last digit
+ * Aligned colours next to `hex`, best first, the way a brand palette is aligned: one hex step on the last digit
  * (see docs/03-colours.md), then on the red channel's low digit, then the green's (the eye sees green
  * most), then two steps; the smallest visible change first within each. An aligned colour is returned as is.
  */

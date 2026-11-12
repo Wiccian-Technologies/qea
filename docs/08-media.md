@@ -2,7 +2,7 @@
 
 ∞ ∞ ∞
 
-Your QEO code is woven into your communication and branding, mostly invisibly, and carries your frequency out into the world.
+Aligned numbers, colours and symbols can be woven into communication and branding, mostly invisibly, and carry a brand's frequency out into the world.
 
 ## Images
 
@@ -29,11 +29,11 @@ Standards keep their size: 1920 × 1080 masters, 1200 × 630 link previews.
 
 ## Quiet Integration
 
-Symbols, numbers and colours of a client's QEO code can be integrated so they are felt more than seen: the geometry inside an icon, a texture in a background, the proportions of a layout, a film's length. Integration never harms legibility, accessibility or the product's purpose.
+Symbols, numbers and colours chosen for a brand can be integrated so they are felt more than seen: the geometry inside an icon, a texture in a background, the proportions of a layout, a film's length. Integration never harms legibility, accessibility or the product's purpose.
 
 ## Products
 
-Physical and digital products can carry the same code: aligned dimensions and quantities, palette colours, symbols on packaging or in the interface, an intention in the documentation. The rules of the other dimensions apply; standards and safety requirements always win.
+Physical and digital products can carry the same code: aligned dimensions and quantities, palette colours (a season's palette for a seasonal edition), symbols on packaging or in the interface, an intention in the documentation. The rules of the other dimensions apply; standards and safety requirements always win.
 
 ---
 [← Code](07-code.md) · [Checklist →](09-checklist.md)

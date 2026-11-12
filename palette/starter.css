@@ -1,0 +1,32 @@
+/* ✦ QEA starter palette: nine hue families aligned to 3 · 6 · 9 (every hex digit sum divides by 3). Generated from starter.json. */
+:root {
+  /* Neutral: Ground and rest: structure, focus, quiet */
+  --qea-ink: #1f2327;
+  --qea-paper: #fafaf7;
+  --qea-stone: #5f6670;
+  --qea-mist: #eef1f4;
+  /* Blue: Trust, calm, clarity, depth */
+  --qea-blue: #2a5db1;
+  --qea-sky: #dbe8f8;
+  /* Teal: Balance, renewal, clear thinking */
+  --qea-teal: #1f6f77;
+  --qea-aqua: #d8f0ed;
+  /* Green: Growth, health, safety, 'go' */
+  --qea-green: #2f7a53;
+  --qea-mint: #dcefe4;
+  /* Amber: Optimism, warmth, attention */
+  --qea-amber: #946008;
+  --qea-cream: #fbefd7;
+  /* Orange: Energy, friendliness, invitation */
+  --qea-orange: #b04a14;
+  --qea-peach: #fbe5d5;
+  /* Red: Urgency, passion, danger, 'stop' */
+  --qea-red: #b3261d;
+  --qea-blush: #f9dedb;
+  /* Rose: Care, tenderness, compassion */
+  --qea-rose: #a3365f;
+  --qea-petal: #f8e1eb;
+  /* Violet: Imagination, wisdom, the spiritual */
+  --qea-violet: #6b4fba;
+  --qea-lavender: #e9e3f8;
+}
