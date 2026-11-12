@@ -2,7 +2,7 @@
 
 ∞ ∞ ∞
 
-**QEA** is an open framework for builders (designers, developers, writers and product teams) who want everything they create to come from one clear intention. It aligns the free choices in a product (sizes, timings, colours, words, symbols, pictures and code) with the numbers **3 · 6 · 9**, the elements and the seasons, while keeping every standard that makes a product usable, accessible and legal.
+**QEA** is an open framework for builders (designers, developers, writers and product teams) who want everything they create to come from one clear intention. It aligns the free choices in a product (sizes, timings, colours, words, symbols, sounds, pictures, code and spaces) with the numbers **3 · 6 · 9**, the elements, the seasons and the frequencies of sound, while keeping every standard that makes a product usable, accessible and legal.
 
 > *"Vibrate at the right frequency within, and everything will flow and fall into place on the outside."*
 
@@ -10,23 +10,27 @@ The result is coherence: a product where every part feels as if it belongs, calm
 
 ## The Three Core Rules
 
-1. **Numbers align to 3 · 6 · 9.** Wherever a number is a free choice (padding, margin, gap, size, radius, image size, duration, limit, count, period), it divides by 3, ideally by 9: 3, 6, 9, 12, 18, 24, 36, 54, 72, 108, 144, 216, 432. → [Numbers](docs/02-numbers.md)
-2. **Colours align by their hex digits.** The sum of a colour's six hex digits (A = 10 … F = 15) divides by 3. A colour that doesn't is nudged by one hex step, invisible to the eye. → [Colours](docs/03-colours.md)
-3. **Standards win.** Where an industry standard, a protocol, accessibility (contrast, touch size), a third party or the law sets a value, that value stays. Alignment never makes something worse to use. → [Principles](docs/01-principles.md)
+1. **Numbers align to 3 · 6 · 9.** Wherever a number is a free choice (padding, margin, gap, size, radius, image size, duration, limit, count, period), it divides by 3, ideally by 9: 3, 6, 9, 12, 18, 24, 36, 54, 72, 108, 144, 216, 432. → [Numbers](docs/1-numbers.md)
+2. **Colours align by their hex digits.** The sum of a colour's six hex digits (A = 10 … F = 15) divides by 3. A colour that doesn't is nudged by one hex step, invisible to the eye. → [Colours](docs/2-colours.md)
+3. **Standards win.** Where an industry standard, a protocol, accessibility (contrast, touch size), a third party or the law sets a value, that value stays. Alignment never makes something worse to use. → [Principles](docs/principles.md)
 
-## The Framework
+## The Nine Dimensions
+
+Start with the [Principles](docs/principles.md), then:
 
 | | Dimension | In short |
 |---|---|---|
-| 1 | [Principles](docs/01-principles.md) | Intention, the nine dimensions, when other values win |
-| 2 | [Numbers ✦ 369](docs/02-numbers.md) | The aligned scale for sizes, time, limits and periods; Grabovoi sequences |
-| 3 | [Colours](docs/03-colours.md) | Colour psychology, culture, roles, accessibility and the hex digit rule |
-| 4 | [Elements & Seasons](docs/04-elements.md) | The five elements, the Feng Shui elements and their colours, a palette for each season |
-| 5 | [Symbols](docs/05-symbols.md) | ✦ ✧ ∞ \|\|∿, sacred geometry and the signs of New Homeopathy |
-| 6 | [Words](docs/06-words.md) | High-vibration language, keywords and how to turn a heavy word |
-| 7 | [Code](docs/07-code.md) | Aligned constants, tokens, tests and intention comments |
-| 8 | [Images, Films & Products](docs/08-media.md) | Sizes, durations, compression and quiet integration |
-| 9 | [Checklist](docs/09-checklist.md) | The review before something goes out |
+| 1 | [Numbers ✦ 369](docs/1-numbers.md) | The aligned scale for sizes, time, limits and periods; Grabovoi sequences |
+| 2 | [Colours](docs/2-colours.md) | Colour psychology, culture, roles, accessibility and the hex digit rule |
+| 3 | [Elements & Seasons](docs/3-elements-seasons.md) | The five elements, the Feng Shui elements and their colours, a palette for each season |
+| 4 | [Symbols](docs/4-symbols.md) | ✦ ✧ ∞ \|\|∿, sacred geometry and the signs of New Homeopathy |
+| 5 | [Words, Texts & Presentations](docs/5-words.md) | High-vibration language, keywords and how to turn a heavy word |
+| 6 | [Sound & Music](docs/6-sound-music.md) | 432 Hz, Solfeggio frequencies, rhythm, the sounds of the elements, sound in products |
+| 7 | [Images & Films](docs/7-images-films.md) | Sizes, lengths, compression and quiet integration |
+| 8 | [Code](docs/8-code.md) | Aligned constants, tokens, tests and intention comments |
+| 9 | [Products, Spaces & Experiences](docs/9-products-spaces.md) | Physical products, rooms and venues, sessions and events |
+
+Before anything goes out: [the review of all nine](docs/checklist.md).
 
 A worked example: [Applying QEA to a Web Product](examples/web-product.md).
 

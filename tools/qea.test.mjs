@@ -2,7 +2,7 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
-import { alignHex, contrast, digitSum, isAlignedHex, isAlignedNumber, nearestAligned, SCALE, DURATIONS } from "./qea.mjs";
+import { alignHex, contrast, digitSum, SOLFEGGIO, TUNING_A4, tuningShiftCents, isAlignedHex, isAlignedNumber, nearestAligned, SCALE, DURATIONS } from "./qea.mjs";
 
 test("numbers align to 3, strongly to 9", () => {
   assert.equal(isAlignedNumber(36), true);
@@ -56,4 +56,10 @@ test("every colour of the starter and season palettes is aligned, and every stro
   for (const season of Object.values(read("seasons.json").seasons)) {
     for (const [name, c] of Object.entries(season.colours)) assert.equal(isAlignedHex(c.hex), true, `${name} ${c.hex}`);
   }
+});
+
+test("432 Hz and the Solfeggio frequencies are aligned, and 440 → 432 is a shift of about −31.77 cents", () => {
+  assert.equal(isAlignedNumber(TUNING_A4, { strong: true }), true);
+  for (const hz of SOLFEGGIO) assert.equal(isAlignedNumber(hz), true, String(hz));
+  assert.equal(Math.round(tuningShiftCents() * 100) / 100, -31.77);
 });

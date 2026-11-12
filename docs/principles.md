@@ -1,4 +1,4 @@
-# 1 ✦ Principles
+# ✦ Principles
 
 ∞ ∞ ∞
 
@@ -10,17 +10,17 @@ The effect we look for is coherence: a page, a product or a codebase where every
 
 ## The Nine Dimensions
 
-| Dimension | What we align |
-|---|---|
-| **Numbers** | Sizes, spacing, durations, limits, counts, periods, prices where we choose them |
-| **Colours** | Every colour's hex value; which colours carry which role and feeling |
-| **Elements & Seasons** | The order and balance of the elements; colours and rhythms that follow the seasons |
-| **Symbols** | ✦ ✧ ∞ \|\|∿, sacred geometry and healing signs, where and how they appear |
-| **Words** | High-vibration, heart-based wording; keywords; turning heavy words |
-| **Texts & Presentations** | Structure, headings and calls to action in the same spirit |
-| **Images & Films** | Their sizes, lengths and quiet integration of symbols |
-| **Code** | Constants, design tokens, tests, intention comments |
-| **Products** | Physical and digital products carry the same code |
+| | Dimension | What we align |
+|---|---|---|
+| 1 | **Numbers** | Sizes, spacing, durations, limits, counts, periods, prices where we choose them |
+| 2 | **Colours** | Every colour's hex value; which colours carry which role and feeling |
+| 3 | **Elements & Seasons** | The order and balance of the elements; colours and rhythms that follow the seasons |
+| 4 | **Symbols** | ✦ ✧ ∞ \|\|∿, sacred geometry and healing signs, where and how they appear |
+| 5 | **Words, Texts & Presentations** | High-vibration wording, keywords, structure, headings and calls to action |
+| 6 | **Sound & Music** | Tuning, frequencies, rhythm, lengths and the sounds of the elements |
+| 7 | **Images & Films** | Their sizes, lengths, compression and quiet integration of symbols |
+| 8 | **Code** | Constants, design tokens, tests, intention comments |
+| 9 | **Products, Spaces & Experiences** | Physical products, rooms and venues, sessions and events |
 
 ## Free Choices Only
 
@@ -37,7 +37,8 @@ Keep the given value, and mark it in code with `qea-ignore` so the reason stays 
 - **A measured copy:** when you rebuild an existing page one to one, its measured sizes stay; its colours still align.
 - **The law or a contract:** tax rates, legal minimums, contract terms.
 - **Someone else's words or numbers:** a customer's price, a testimonial, a partner's own text. Everyone keeps their own words; QEA aligns the design around them.
-- **A sequence with its own meaning:** a Grabovoi sequence or a date is used as it is (see [Numbers](02-numbers.md)).
+- **A tuning standard** an orchestra or a licensed recording uses (A = 440 Hz).
+- **A sequence with its own meaning:** a Grabovoi sequence or a date is used as it is (see [Numbers](1-numbers.md)).
 
 ### Hairlines
 
@@ -49,12 +50,12 @@ Lines of 1 or 2 px are physical pixels, not design choices. They stay.
 2. **Start from tokens.** Define the aligned scale, colours and durations once (design tokens, CSS custom properties, a theme) and use only those.
 3. **Choose, don't round late.** Pick 36 px from the start rather than designing at 35 and fixing it later.
 4. **Prefer 9.** When two aligned values work, take the one divisible by 9 (18 over 15, 36 over 33, 108 over 105).
-5. **Check automatically.** Run `tools/qea-check.mjs` in CI, and test your palette (see [Code](07-code.md)).
+5. **Check automatically.** Run `tools/qea-check.mjs` in CI, and test your palette (see [Code](8-code.md)).
 6. **Write the exceptions down.** Every `qea-ignore` says why.
 
 ## Practices, Not Promises
 
-Some dimensions draw on traditions and practices (sacred geometry, Feng Shui, New Homeopathy, Grabovoi sequences) whose effects are not scientifically established. QEA uses them as intention and as design language. Never present them to your users as medical, financial or guaranteed effects, and never instead of professional care.
+Some dimensions draw on traditions and practices (sacred geometry, Feng Shui, New Homeopathy, Grabovoi sequences, healing frequencies) whose effects are not scientifically established. QEA uses them as intention and as design language. Never present them to your users as medical, financial or guaranteed effects, and never instead of professional care.
 
 ---
-[← Overview](../README.md) · [Numbers →](02-numbers.md)
+[← Overview](../README.md) · [Numbers →](1-numbers.md)

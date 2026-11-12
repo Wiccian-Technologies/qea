@@ -1,4 +1,4 @@
-# 3 ✦ Colours
+# 2 ✦ Colours
 
 ∞ ∞ ∞
 
@@ -57,7 +57,7 @@ Financial screens are a known trap: in China, Japan and Korea, red usually shows
 | Spirit, imagination | violet, lavender, indigo |
 | Ground and rest | off-white, sand, stone, deep warm grey |
 
-For colours that follow the time of year and the five Feng Shui elements, see [Elements & Seasons](04-elements.md).
+For colours that follow the time of year and the five Feng Shui elements, see [Elements & Seasons](3-elements-seasons.md).
 
 ## Building a Palette
 
@@ -118,4 +118,4 @@ A neutral starting point to prototype with or to model your own on: nine hue fam
 | Violet | imagination, wisdom | `#6b4fba` | 5.8 | Lavender `#e9e3f8` |
 
 ---
-[← Numbers](02-numbers.md) · [Elements & Seasons →](04-elements.md)
+[← Numbers](1-numbers.md) · [Elements & Seasons →](3-elements-seasons.md)

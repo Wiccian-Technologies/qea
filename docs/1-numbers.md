@@ -1,4 +1,4 @@
-# 2 ✦ Numbers · 369
+# 1 ✦ Numbers · 369
 
 ∞ ∞ ∞
 
@@ -61,7 +61,7 @@ When the price or share is yours to set, align it:
 
 ## Pictures
 
-Longest edge 144, 216, 432, 720, 1080, 1296, 1440 or 2160 px. Standards keep their size (1200 × 630 link previews, 1920 × 1080 films). See [Images, Films & Products](08-media.md).
+Longest edge 144, 216, 432, 720, 1080, 1296, 1440 or 2160 px. Standards keep their size (1200 × 630 link previews, 1920 × 1080 films). See [Images & Films](7-images-films.md).
 
 ## Turning a Number
 
@@ -87,4 +87,4 @@ How to use them in a product, quietly and with consent:
 Take sequences from Grabovoi's published books, not from lists online, and keep the spaces as written; the meanings above are how they are commonly cited.
 
 ---
-[← Principles](01-principles.md) · [Colours →](03-colours.md)
+[← Principles](principles.md) · [Colours →](2-colours.md)

@@ -1,4 +1,4 @@
-# 5 ✦ Symbols
+# 4 ✦ Symbols
 
 ∞ ∞ ∞
 
@@ -12,7 +12,7 @@ Sacred geometry, healing signs and power symbols from around the world are known
 | ✧ | Open star | The softer accent: a signature after a name (`Meet Anna ✧`), list items in calm texts |
 | ∞ ∞ ∞ | Infinity | The divider under a section title or between sections |
 | ∞ | Infinity (single) | Abundance, the unbroken flow |
-| \|\|∿ | Turning wave | Placed right after a heavy word or pattern, to turn and release it: `limiting beliefs ||∿` (see [Words](06-words.md)) |
+| \|\|∿ | Turning wave | Placed right after a heavy word or pattern, to turn and release it: `limiting beliefs ||∿` (see [Words](5-words.md)) |
 | ♥ | Heart | What is given from the heart; care, gratitude |
 
 ## Sacred Geometry
@@ -27,7 +27,7 @@ Sacred geometry, healing signs and power symbols from around the world are known
 | Vesica Piscis | meeting, the space between two | logos, transitions |
 | Golden ratio (1 : 1.618) | natural proportion, beauty | layout proportions (a standard of its own; it may sit beside 3 · 6 · 9) |
 
-Shapes of the Feng Shui elements (columns for Wood, points for Fire, squares for Earth, circles for Metal, waves for Water) are in [Elements & Seasons](04-elements.md).
+Shapes of the Feng Shui elements (columns for Wood, points for Fire, squares for Earth, circles for Metal, waves for Water) are in [Elements & Seasons](3-elements-seasons.md).
 
 ## Signs of New Homeopathy
 
@@ -46,7 +46,7 @@ In a product, these signs can live quietly: inside a pattern, an icon's geometry
 
 ## Elements
 
-The alchemical signs 🜃 🜄 🜂 🜁 and ✧ name the five elements wherever they appear (see [Elements & Seasons](04-elements.md)).
+The alchemical signs 🜃 🜄 🜂 🜁 and ✧ name the five elements wherever they appear (see [Elements & Seasons](3-elements-seasons.md)).
 
 ## Usage
 
@@ -54,7 +54,7 @@ The alchemical signs 🜃 🜄 🜂 🜁 and ✧ name the five elements wherever
 - **Drawn or typed, never as emoji pictures:** prefer the typographic symbol or a drawn icon over colourful emoji. Never yellow smiley faces in interfaces.
 - **Where a font can't draw a symbol** (link preview images, some PDFs), draw it as an SVG instead of leaving an empty box.
 - **Respect origins:** symbols from living traditions are used with respect and their meaning intact, never as decoration that contradicts them.
-- **Quiet integration:** symbols may also live where they aren't seen at first glance (a texture, an icon's geometry, a code comment). See [Images, Films & Products](08-media.md).
+- **Quiet integration:** symbols may also live where they aren't seen at first glance (a texture, an icon's geometry, a code comment). See [Images & Films](7-images-films.md).
 
 ---
-[← Elements & Seasons](04-elements.md) · [Words →](06-words.md)
+[← Elements & Seasons](3-elements-seasons.md) · [Words →](5-words.md)

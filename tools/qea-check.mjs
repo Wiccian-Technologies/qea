@@ -4,7 +4,7 @@
 //   node tools/qea-check.mjs <files or folders …> [--colours] [--numbers] [--strong]
 // --colours / --numbers check only one kind; --strong asks numbers to divide by 9. Exit code 1 when something is
 // found, so it can run in CI. A line ending in `qea-ignore` (any comment style) is skipped: use it for standards,
-// third-party values and measured copies (docs/01-principles.md, "When other values win").
+// third-party values and measured copies (docs/principles.md, "When other values win").
 import { readdirSync, readFileSync, statSync } from "node:fs";
 import { extname, join } from "node:path";
 import { alignHex, isAlignedHex, isAlignedNumber, nearestAligned } from "./qea.mjs";

@@ -6,6 +6,17 @@ export const SCALE = [3, 6, 9, 12, 18, 24, 27, 36, 45, 54, 72, 81, 108, 144, 162
 /** Calm motion, in milliseconds. */
 export const DURATIONS = [180, 270, 360, 540, 720, 1080, 1440];
 
+/** Concert pitch QEA prefers for A4, in hertz (4 + 3 + 2 = 9). */
+export const TUNING_A4 = 432;
+
+/** The nine Solfeggio frequencies, in hertz; each one's digits sum to 3, 6 or 9. */
+export const SOLFEGGIO = [174, 285, 396, 417, 528, 639, 741, 852, 963];
+
+/** Cents to shift music tuned to `fromHz` (440 by default) so A4 sits at `toHz`: 440 → 432 is about −31.77. */
+export function tuningShiftCents(fromHz = 440, toHz = TUNING_A4) {
+  return 1200 * Math.log2(toHz / fromHz);
+}
+
 /** A number is aligned when it divides by 3. `strong` asks for 9. */
 export function isAlignedNumber(n, { strong = false } = {}) {
   if (!Number.isFinite(n)) return false;
@@ -57,7 +68,7 @@ function distance(a, b) {
 
 /**
  * Aligned colours next to `hex`, best first, the way a brand palette is aligned: one hex step on the last digit
- * (see docs/03-colours.md), then on the red channel's low digit, then the green's (the eye sees green
+ * (see docs/2-colours.md), then on the red channel's low digit, then the green's (the eye sees green
  * most), then two steps; the smallest visible change first within each. An aligned colour is returned as is.
  */
 export function alignHex(hex, { count = 3 } = {}) {

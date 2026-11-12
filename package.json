@@ -1,7 +1,7 @@
 {
   "name": "@wiccian/qea",
-  "version": "1.1.0",
-  "description": "QEA Framework: Quantum Energy Alignment rules (3 · 6 · 9, colours, elements and seasons, symbols, words) and tools to check a project.",
+  "version": "1.2.0",
+  "description": "QEA Framework: Quantum Energy Alignment rules (3 · 6 · 9, colours, elements and seasons, symbols, words, sound) and tools to check a project.",
   "type": "module",
   "private": true,
   "exports": {

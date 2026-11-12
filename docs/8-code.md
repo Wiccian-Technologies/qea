@@ -1,4 +1,4 @@
-# 7 ✦ Code
+# 8 ✦ Code
 
 ∞ ∞ ∞
 
@@ -82,4 +82,4 @@ Compilers ignore comments; the intention in them stays. A Grabovoi sequence may 
 Keep them true, short and kind, and never put secrets or noise in them.
 
 ---
-[← Words](06-words.md) · [Images, Films & Products →](08-media.md)
+[← Images & Films](7-images-films.md) · [Products, Spaces & Experiences →](9-products-spaces.md)

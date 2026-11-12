@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.2.0 ✦ 12 Nov 2026
+
+- Nine true dimensions: **Sound & Music** is new (432 Hz tuning, the Solfeggio frequencies, brainwave ranges, tempo and lengths, the sounds of the elements and seasons, sound in products); **Products, Spaces & Experiences** is its own dimension (Feng Shui directions in a room, light, sessions, group sizes, programmes).
+- Principles open the framework and the checklist closes it ("Before It Goes Out"); neither counts as a dimension.
+- Tools: `TUNING_A4`, `SOLFEGGIO` and `tuningShiftCents`.
+
 ## 1.1.0 ✦ 12 Nov 2026
 
 - Neutral for every company and product: no brand palette or brand examples.

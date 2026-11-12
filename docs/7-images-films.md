@@ -1,4 +1,4 @@
-# 8 ✦ Images, Films & Products
+# 7 ✦ Images & Films
 
 ∞ ∞ ∞
 
@@ -29,11 +29,7 @@ Standards keep their size: 1920 × 1080 masters, 1200 × 630 link previews.
 
 ## Quiet Integration
 
-Symbols, numbers and colours chosen for a brand can be integrated so they are felt more than seen: the geometry inside an icon, a texture in a background, the proportions of a layout, a film's length. Integration never harms legibility, accessibility or the product's purpose.
-
-## Products
-
-Physical and digital products can carry the same code: aligned dimensions and quantities, palette colours (a season's palette for a seasonal edition), symbols on packaging or in the interface, an intention in the documentation. The rules of the other dimensions apply; standards and safety requirements always win.
+Symbols, numbers and colours chosen for a brand can be integrated so they are felt more than seen: the geometry inside an icon, a texture in a background, the proportions of a layout, a film's length. Integration never harms legibility, accessibility or the product's purpose. Sound for films follows [Sound & Music](6-sound-music.md).
 
 ---
-[← Code](07-code.md) · [Checklist →](09-checklist.md)
+[← Sound & Music](6-sound-music.md) · [Code →](8-code.md)

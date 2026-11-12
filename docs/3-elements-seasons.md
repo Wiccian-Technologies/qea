@@ -1,4 +1,4 @@
-# 4 ✦ Elements & Seasons
+# 3 ✦ Elements & Seasons
 
 ∞ ∞ ∞
 
@@ -102,4 +102,4 @@ Text-safe on white (4.5 : 1 or more): Deep Fern, Ember, Umber, Graphite, Rust an
 A season's palette can be the whole look (a seasonal campaign) or one accent added to a brand's own palette for that time of year. Keep the brand's text and action colours steady all year, so people always find their way.
 
 ---
-[← Colours](03-colours.md) · [Symbols →](05-symbols.md)
+[← Colours](2-colours.md) · [Symbols →](4-symbols.md)

@@ -34,6 +34,10 @@ The home page photograph and one accent colour change with the season where the 
 
 "Find your calm" rather than "Stop the stress". Keywords: calm, breath, flow, together. Classes grouped by element: grounding (Earth), flowing (Water), energising (Fire), breathing (Air), meditation (Ether).
 
+## 6b · Sound
+
+Silent by default. An optional soft chime of 360 ms on a confirmed booking; class playlists tuned to 432 Hz at 72 BPM for flow classes and 60 BPM for yin; guided meditations of 18 or 27 minutes on a 528 Hz drone.
+
 ## 7 · Code
 
 ```css
@@ -55,7 +59,7 @@ Photos at 1080 px, WebP, under 864 KB; a 36-second welcome film at 720 px with c
 
 ## 9 · Checklist
 
-Before each release the team goes through the [nine points](../docs/09-checklist.md).
+Before each release the team goes through the [nine points](../docs/checklist.md).
 
 ---
 [← Overview](../README.md)
