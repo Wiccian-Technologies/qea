@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.3.0 ✦ 12 Nov 2026
+
+- **Everything Is Energy:** the seven universal laws QEA respects (Perpetual Transmutation of Energy, Vibration with the Law of Attraction, Relativity, Polarity, Rhythm, Cause and Effect, Gender), each with what it means when we build.
+- Principles: Magical Products (aligned dates, universally aligned design, high-frequency code); the moon, astrology and TimeWaver among the practices.
+- Products, Spaces & Experiences: **Aligned Dates** with the moon phases, the stars and encoded flyers.
+- Numbers: the 3 · 6 · 9 line often attributed to Tesla; more Grabovoi sequences, who Grabovoi is, a quiet way of holding a sequence, and the note that healing never replaces medical care.
+
 ## 1.2.0 ✦ 12 Nov 2026
 
 - Nine true dimensions: **Sound & Music** is new (432 Hz tuning, the Solfeggio frequencies, brainwave ranges, tempo and lengths, the sounds of the elements and seasons, sound in products); **Products, Spaces & Experiences** is its own dimension (Feng Shui directions in a room, light, sessions, group sizes, programmes).

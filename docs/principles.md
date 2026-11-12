@@ -2,6 +2,8 @@
 
 ∞ ∞ ∞
 
+QEA rests on the [seven universal laws](universal-laws.md), all expressions of one: everything is energy.
+
 ## Why Align
 
 Everything we make carries a frequency: the numbers it is built from, the colours, the words, the symbols. Customers, team members and users read it, mostly without noticing. QEA makes that frequency deliberate. Instead of leaving a thousand small choices to habit or to a tool's defaults, we choose them in resonance with **3 · 6 · 9**, the elements and the seasons.
@@ -21,6 +23,14 @@ The effect we look for is coherence: a page, a product or a codebase where every
 | 7 | **Images & Films** | Their sizes, lengths, compression and quiet integration of symbols |
 | 8 | **Code** | Constants, design tokens, tests, intention comments |
 | 9 | **Products, Spaces & Experiences** | Physical products, rooms and venues, sessions and events |
+
+## Magical Products
+
+A product made with QEA is created with the energies that support it:
+
+- **Aligned dates:** it is planned and carried out on dates chosen with the moon and the positions of the planets and stars (see [Aligned Dates](9-products-spaces.md#aligned-dates)).
+- **Universally aligned design:** numbers, colours, elements, symbols and sacred geometry in resonance with 3 · 6 · 9.
+- **High-frequency code:** the technology itself is written with aligned values and clear intention (see [Code](8-code.md)).
 
 ## Free Choices Only
 
@@ -55,7 +65,7 @@ Lines of 1 or 2 px are physical pixels, not design choices. They stay.
 
 ## Practices, Not Promises
 
-Some dimensions draw on traditions and practices (sacred geometry, Feng Shui, New Homeopathy, Grabovoi sequences, healing frequencies) whose effects are not scientifically established. QEA uses them as intention and as design language. Never present them to your users as medical, financial or guaranteed effects, and never instead of professional care.
+Some dimensions draw on traditions, practices and technologies (sacred geometry, Feng Shui, New Homeopathy, Grabovoi sequences, healing frequencies, the moon and astrology, TimeWaver quantum technology) whose effects are not scientifically established. QEA uses them as intention and as design language. Never present them to your users as medical, financial or guaranteed effects, and never instead of professional care.
 
 ---
-[← Overview](../README.md) · [Numbers →](1-numbers.md)
+[← Everything Is Energy](universal-laws.md) · [Numbers →](1-numbers.md)

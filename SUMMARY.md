@@ -1,6 +1,7 @@
 # Table of contents
 
 * [QEA Framework](README.md)
+* [Everything Is Energy](docs/universal-laws.md)
 * [Principles](docs/principles.md)
 
 ## The Nine Dimensions

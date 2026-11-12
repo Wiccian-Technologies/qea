@@ -39,5 +39,30 @@ Sessions, courses, retreats and events.
 | Steps in a journey | 3, 6 or 9 |
 | Rhythm | in tune with the seasons and the moon: begin in spring or at a new moon, celebrate in summer or at a full moon, review in autumn, rest in winter |
 
+## Aligned Dates
+
+Following the [Law of Rhythm](universal-laws.md), a project is planned and carried out with supporting energies: its key dates are chosen with the moon and the positions of the planets and stars.
+
+### The Moon
+
+Events, launches and programmes start on a moon day that fits what they are meant to do.
+
+| Phase | Energy | Good for |
+|---|---|---|
+| 🌑 New moon | seeding, intention | beginnings: a launch, a first session, signing, setting intentions |
+| 🌒 Waxing moon | growth, building up | inviting, building, promoting, gathering people |
+| 🌕 Full moon | fullness, visibility | celebrations, openings, showing results, gratitude |
+| 🌘 Waning moon | release, clearing | reviewing, finishing, letting go, cleaning up, rest |
+
+### The Stars
+
+For the dates that matter most (a launch, an opening, a contract, the start of a programme), look at the astrological positions as well: for example, avoid starting something new while Mercury is retrograde, and choose a day whose sign suits the project. Consult an astrologer for the important ones.
+
+### Encoded Materials
+
+Flyers, invitations and printed materials carry the code of their moment: the date in aligned numbers where it's ours to set, the moon phase or its symbol, sacred geometry (see [Symbols](4-symbols.md)) and, quietly in the background, a Grabovoi sequence that fits the intention (see [Numbers](1-numbers.md#grabovoi-sequences)).
+
+Dates are a free choice only where they are ours: a client's deadline, a public holiday or the law keeps its date.
+
 ---
 [← Code](8-code.md) · [Before It Goes Out →](checklist.md)

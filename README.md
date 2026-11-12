@@ -6,6 +6,8 @@
 
 > *"Vibrate at the right frequency within, and everything will flow and fall into place on the outside."*
 
+QEA respects the [seven universal laws](docs/universal-laws.md), which all express one: **everything is energy**.
+
 The result is coherence: a product where every part feels as if it belongs, calm to look at, easy to use and trustworthy. QEA works with any brand, any stack and any industry. It doesn't bring its own look; it brings a way of choosing.
 
 ## The Three Core Rules
@@ -16,7 +18,7 @@ The result is coherence: a product where every part feels as if it belongs, calm
 
 ## The Nine Dimensions
 
-Start with the [Principles](docs/principles.md), then:
+Start with [Everything Is Energy](docs/universal-laws.md) and the [Principles](docs/principles.md), then:
 
 | | Dimension | In short |
 |---|---|---|

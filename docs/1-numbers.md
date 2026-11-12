@@ -2,7 +2,9 @@
 
 ∞ ∞ ∞
 
-Focusing on certain numbers has protective, connecting and manifesting effects. QEA works with the power of **3 · 6 · 9** and with the master patterns **108**, **144** and **432**.
+> *"If you only knew the magnificence of the 3, 6 and 9, then you would have a key to the universe."* (often attributed to Nikola Tesla)
+
+Everything is energy (see [Everything Is Energy](universal-laws.md)): think in terms of energy, frequency and vibration. Focusing on certain numbers has protective, connecting and manifesting effects. QEA works with the power of **3 · 6 · 9** and with the master patterns **108**, **144** and **432**.
 
 ## The Rule
 
@@ -69,20 +71,38 @@ Longest edge 144, 216, 432, 720, 1080, 1296, 1440 or 2160 px. Standards keep the
 
 ## Grabovoi Sequences
 
-Grigori Grabovoi published number sequences meant to focus attention on an intention. People read them, write them, speak them, or keep them where they see them often. In QEA they belong to **intention**, not to layout: a sequence is used exactly as it is written (it is never rounded to 3 · 6 · 9) and marked `qea-ignore` in code.
+Grigori Grabovoi (born 1963 in Kazakhstan) is a Russian author who published number sequences meant to focus attention on an intention. His teaching starts from the same root as QEA, that everything is energy and information: each condition, organ or wish is given its own vibration, expressed as a number or a geometric form. People read the sequences, write them, speak them, meditate on them, or keep them where they see them often. His claims of healing are not scientifically established; QEA uses the sequences as intention only (see [Practices, Not Promises](principles.md#practices-not-promises)).
+
+In QEA they belong to **intention**, not to layout: a sequence is used exactly as it is written (it is never rounded to 3 · 6 · 9) and marked `qea-ignore` in code.
 
 | Sequence | Intention, as commonly given | Digit sum |
 |---|---|---|
+| 319 817 318 | global salvation and harmonious development | 41 |
+| 8888 | divine protection | 32 |
 | 71931 | protection | 21 ✓ |
+| 11981 | direct contact with the Creator | 20 |
+| 519 7148 | creating miracles: everything is possible | 35 |
 | 318 798 | growth of abundance | 36 ✓ |
 | 520 741 8 | unexpected abundance | 27 ✓ |
-| 519 7148 | everything is possible | 35 |
+| 514 | rejuvenation | 10 |
 
-How to use them in a product, quietly and with consent:
+### Holding a Sequence
 
-- **In the making:** in an intention comment at the top of a module, in a project's name or a team ritual, in the background of a print file.
+A quiet way to work with a sequence, for anyone who wishes to:
+
+1. **Choose** one sequence and its intention.
+2. **Settle** for 30 seconds to 3 minutes in silence.
+3. **See it in light:** a sphere of white-silver light in front of you with the sequence inside it (9 digits or more), or a 3 × 3 cube with the digits on its sides (5 to 8 digits), shining outwards as it turns.
+4. **Take it in:** bring the sphere or cube into your solar plexus or the centre of your forehead, and hold the intention as already real.
+5. **Close:** note the date and time, and say *"So it is, so it is, so it is."*
+
+Use your intuition; this is a guide, not a ritual to recite word for word.
+
+### In a Product
+
+- **In the making:** in an intention comment at the top of a module, in a project's name or a team ritual, in the background of a print file or a flyer (see [Aligned Dates](9-products-spaces.md#aligned-dates)).
 - **In what users see,** only where your audience knows and welcomes them (a wellbeing app, a retreat, a coaching programme), with the intention named in words beside them.
-- **Never** as a promise of health, money or results, and never hidden in a way that would surprise users who don't share the practice.
+- **Never** as a promise of health, money or results, and never hidden in a way that would surprise users who don't share the practice. Healing is everyone's own responsibility and never replaces medical care: anyone with a health concern sees a doctor, pharmacist or specialist.
 
 Take sequences from Grabovoi's published books, not from lists online, and keep the spaces as written; the meanings above are how they are commonly cited.
 

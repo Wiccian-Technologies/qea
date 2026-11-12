@@ -14,7 +14,7 @@ A review of the nine dimensions before something goes out: a page, a release, a 
 6. **Sound & Music.** Music at 432 Hz where it's ours to choose; sounds short, soft, optional and never autoplayed; lengths and tempos aligned; loudness within the standard.
 7. **Images & Films.** Compressed, in aligned sizes and lengths; films have a still, a pause and captions where there is speech.
 8. **Code.** Constants named and aligned; colours only from tokens; the palette test and `qea-check` run in CI; intention comments true and short.
-9. **Products, Spaces & Experiences.** Dimensions, quantities, durations and group sizes aligned; elements placed and balanced; safety and building rules kept.
+9. **Products, Spaces & Experiences.** Dimensions, quantities, durations and group sizes aligned; elements placed and balanced; key dates chosen with the moon and the stars; safety and building rules kept.
 
 ✦ When all nine are met, it is aligned. ✦
 
