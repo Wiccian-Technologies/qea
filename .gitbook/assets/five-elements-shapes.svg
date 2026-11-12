@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 270" width="720" height="270" font-family="Helvetica, Arial, sans-serif">
+<rect width="720" height="270" rx="24" fill="#faf3e6"/>
+<rect x="51" y="45" width="42" height="126" rx="6" fill="#5f9b4d"/>
+<text x="72" y="210" text-anchor="middle" font-size="21" font-weight="bold" fill="#3d3f44">木 Wood</text>
+<text x="72" y="240" text-anchor="middle" font-size="15" fill="#3d3f44">tall · columns</text>
+<path d="M216 45 L273 162 L159 162 Z" fill="#e8735b"/>
+<text x="216" y="210" text-anchor="middle" font-size="21" font-weight="bold" fill="#3d3f44">火 Fire</text>
+<text x="216" y="240" text-anchor="middle" font-size="15" fill="#3d3f44">triangles · points</text>
+<rect x="306" y="81" width="108" height="81" rx="3" fill="#c9962d"/>
+<text x="360" y="210" text-anchor="middle" font-size="21" font-weight="bold" fill="#3d3f44">土 Earth</text>
+<text x="360" y="240" text-anchor="middle" font-size="15" fill="#3d3f44">squares · flat</text>
+<circle cx="504" cy="108" r="54" fill="#a9aeb3"/>
+<text x="504" y="210" text-anchor="middle" font-size="21" font-weight="bold" fill="#3d3f44">金 Metal</text>
+<text x="504" y="240" text-anchor="middle" font-size="15" fill="#3d3f44">circles · round</text>
+<path d="M600 90 q12 -24 24 0 t24 0 t24 0 t24 0 M600 126 q12 -24 24 0 t24 0 t24 0 t24 0" fill="none" stroke="#1f4e7a" stroke-width="12" stroke-linecap="round"/>
+<text x="648" y="210" text-anchor="middle" font-size="21" font-weight="bold" fill="#3d3f44">水 Water</text>
+<text x="648" y="240" text-anchor="middle" font-size="15" fill="#3d3f44">waves · free</text>
+</svg>
