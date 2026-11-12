@@ -91,6 +91,21 @@ A Bazi reading is done by a practitioner from the date, time and place of birth.
 
 A logo is a brand's visual anchor: its identity, values and aspiration in one glance. Built with Feng Shui, it carries balance and positive energy as well, and is remembered and trusted more easily.
 
+### The Look
+
+![A logo in the Feng Shui look: earth, ink and gold in circles and half circles, held by one axis](../assets/feng-shui-logo-look.webp)
+
+*Fabio Issao, [Solitude or Small Meditations 17](https://dribbble.com/shots/15269286-Solitude-or-small-meditations-17)*
+
+What makes this look:
+
+- **Yin and yang:** light and dark in balance, two halves that complete each other.
+- **Few, earthy colours:** sand, ink and warm gold or terracotta; one element leads, the others support.
+- **Circles and half circles** (Metal and Water) held by **one vertical axis**: a calm centre, upward flow.
+- **Fine lines and small dots:** rays, a wave, points of rhythm; detail that never crowds.
+- **Generous space** around it, so the qi can flow.
+- **A seal or signature** in a quiet corner, like a painter's stamp.
+
 ### Elements in a Logo
 
 | Element | Energy | Suits | In the logo |
