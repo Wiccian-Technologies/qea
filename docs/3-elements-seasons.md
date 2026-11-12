@@ -37,25 +37,73 @@ Example: a directory of local businesses groups its categories as earth (food, h
 
 ## The Five Feng Shui Elements (Wu Xing)
 
-In Chinese tradition the five elements are phases of one moving energy (qi), each tied to a season, a direction, a shape and colours.
+In Chinese tradition the five elements are five phases of one transforming energy (qi), each tied to a season, a direction, a shape and colours. Feng Shui ("wind and water") is the art, over 3,000 years old, of bringing a space, an object or a brand into harmony with that energy, held in balance by yin and yang.
 
-| Element | Season | Direction | Shapes | Colours | Qualities |
-|---|---|---|---|---|---|
-| **Wood** 木 | spring | east | tall, columns, stripes | greens, teal, light brown | growth, vitality, new beginnings, kindness |
-| **Fire** 火 | summer | south | triangles, points, stars | red, orange, strong pink, purple | passion, visibility, joy, recognition |
-| **Earth** 土 | late summer | centre | squares, flat and low | yellow, ochre, beige, sand, terracotta | stability, nourishment, trust, care |
-| **Metal** 金 | autumn | west | circles, ovals, arches | white, grey, silver, gold, pastels | clarity, precision, focus, letting go |
-| **Water** 水 | winter | north | waves, flowing, free forms | black, deep blue, navy | depth, wisdom, flow, rest |
+![The five elements with their shapes](../assets/five-elements-shapes.svg)
 
-### How the Elements Relate, and What It Means for Colour
+| Element | Season | Direction | Properties | Associated with | Shapes | Colours | Fonts |
+|---|---|---|---|---|---|---|---|
+| **Wood** 木 | spring | east | grows outwards, enduring | growth, renewal, revitalisation, health, vitality, kindness | tall, rectangular, columns, stripes, vertical lines | greens, teal, light brown | thin, narrow, condensed |
+| **Fire** 火 | summer | south | spreads in every direction, radiates, hot | passion, energy, excitement, joy, dynamism, visibility; in excess anger and aggression | triangles, points, sharp and edgy, stars | red, orange, purple, pink | angular |
+| **Earth** 土 | late summer | centre | attractive, dense, stable | stability, grounding, nourishment, strength, trust, care | squares, cubes, flat and broad | brown, beige, yellow, khaki, sand, terracotta | square, solid |
+| **Metal** 金 | autumn | west | sharp, pointing, piercing | clarity, precision, introspection, self-reflection, organisation, structure, productivity | spheres, circles, ovals, arches | white, gold, silver, grey, pastels | rounded |
+| **Water** 水 | winter | north | runs downhill, free and unbound | flow, flexibility, purity, cleansing, depth, wisdom, rest | waves, indefinite, free forms | blue, dark blue, black, dark grey | cursive, script |
 
-**The nourishing cycle** (each feeds the next): Wood → Fire → Earth → Metal → Water → Wood.
-Colours next to each other in this cycle feel harmonious together: green with red or pink, red with sand, ochre with white or gold, grey with navy, deep blue with green.
+**Physical objects** that carry each element (in a space, a photograph, an illustration or a product):
 
-**The controlling cycle** (each restrains another): Wood → Earth, Earth → Water, Water → Fire, Fire → Metal, Metal → Wood.
-These pairs create tension: red on silver, navy on orange, green on ochre. Use them on purpose, for a contrast that should catch the eye, or to calm an element that dominates.
+| Element | Objects |
+|---|---|
+| **Wood** | plants, shrubs, trees, flowers, grass, bamboo, ferns, wooden furniture, paper, textiles |
+| **Fire** | fire, candles, red lamps, lightning, electricity, light |
+| **Earth** | mountains, rocks, stones, bricks, ceramics, clay |
+| **Metal** | swords, axes, jewellery, gold, silver, iron, copper, coins, bells |
+| **Water** | ponds, swimming pools, fountains, lakes, seas, aquariums, mirrors and glass |
 
-**The draining cycle** (the nourishing cycle backwards): a child element tires its parent. Add Earth tones to soften too much Fire; add Wood greens to calm too much Water.
+Going deeper: [Feng Shui for Brands & Business](3a-feng-shui-business.md) (logos, colours, layout, the Bagua, the element of each industry, the owner's Bazi) and [The Five Element Personalities](3b-element-personalities.md).
+
+### How the Elements Relate: the Cycles
+
+All five elements are related through cycles, in which one element produces, controls or weakens another.
+
+![The nourishing and controlling cycles of the five elements](../assets/five-elements-cycles.svg)
+
+**The nourishing cycle** (also productive, growth or strengthening): each element feeds and strengthens the next.
+
+| | Because |
+|---|---|
+| Wood → Fire | wood feeds the fire |
+| Fire → Earth | fire leaves ash, which becomes earth |
+| Earth → Metal | metals and minerals are mined from the earth |
+| Metal → Water | water condenses on cool metal; melted metal flows like water |
+| Water → Wood | water makes plants grow |
+
+**The controlling cycle** (also called the clashing or destructive cycle): each element keeps another in check. In balance it restrains; out of balance it destroys.
+
+| | Because |
+|---|---|
+| Fire → Metal | fire melts metal |
+| Metal → Wood | the axe cuts wood |
+| Wood → Earth | roots grip the earth and draw its nutrients (why soil needs feeding) |
+| Earth → Water | the earth channels water and holds it back, like a dam or mud after rain |
+| Water → Fire | water puts out fire |
+
+**The weakening cycle** (also draining or exhaustive): the nourishing cycle backwards. Whatever grows takes its energy from what feeds it.
+
+| | Because |
+|---|---|
+| Fire weakens Wood | the fire uses up the wood |
+| Wood weakens Water | the plant drinks the water |
+| Water weakens Metal | water makes metal rust |
+| Metal weakens Earth | mining digs out the earth |
+| Earth weakens Fire | earth can't burn; enough earth smothers a fire |
+
+**To balance, prefer the weakening cycle over the controlling one.** A clash can do more harm than good: water poured on fire makes smoke and scalding splashes. Calm too much Fire with Earth (it drains Fire gently) before reaching for Water.
+
+### What the Cycles Mean for Colour
+
+Colours next to each other in the nourishing cycle feel harmonious together: green with red or pink, red with sand, ochre with white or gold, grey with navy, deep blue with green.
+
+Pairs in the controlling cycle create tension: red on silver, navy on orange, green on ochre. Use them on purpose, for a contrast that should catch the eye, or to calm an element that dominates.
 
 To balance with colour:
 

@@ -49,10 +49,10 @@ Events, launches and programmes start on a moon day that fits what they are mean
 
 | Phase | Energy | Good for |
 |---|---|---|
-| 🌑 New moon | seeding, intention | beginnings: a launch, a first session, signing, setting intentions |
-| 🌒 Waxing moon | growth, building up | inviting, building, promoting, gathering people |
-| 🌕 Full moon | fullness, visibility | celebrations, openings, showing results, gratitude |
-| 🌘 Waning moon | release, clearing | reviewing, finishing, letting go, cleaning up, rest |
+| ● New moon | seeding, intention | beginnings: a launch, a first session, signing, setting intentions |
+| ◐ Waxing moon | growth, building up | inviting, building, promoting, gathering people |
+| ○ Full moon | fullness, visibility | celebrations, openings, showing results, gratitude |
+| ◑ Waning moon | release, clearing | reviewing, finishing, letting go, cleaning up, rest |
 
 ### The Stars
 

@@ -71,7 +71,7 @@ Longest edge 144, 216, 432, 720, 1080, 1296, 1440 or 2160 px. Standards keep the
 
 ## Grabovoi Sequences
 
-Grigori Grabovoi (born 1963 in Kazakhstan) is a Russian author who published number sequences meant to focus attention on an intention. His teaching starts from the same root as QEA, that everything is energy and information: each condition, organ or wish is given its own vibration, expressed as a number or a geometric form. People read the sequences, write them, speak them, meditate on them, or keep them where they see them often. His claims of healing are not scientifically established; QEA uses the sequences as intention only (see [Practices, Not Promises](principles.md#practices-not-promises)).
+Grigori Grabovoi (born 1963 in Kazakhstan) is a Russian author who published number sequences meant to focus attention on an intention. His teaching starts from the same root as QEA, that everything is energy and information: each condition, organ or wish is given its own vibration, expressed as a number or a geometric form. People read the sequences, write them, speak them, meditate on them, or keep them where they see them often.
 
 In QEA they belong to **intention**, not to layout: a sequence is used exactly as it is written (it is never rounded to 3 · 6 · 9) and marked `qea-ignore` in code.
 

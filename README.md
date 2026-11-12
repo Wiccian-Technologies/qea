@@ -24,7 +24,7 @@ Start with [Everything Is Energy](docs/universal-laws.md) and the [Principles](d
 |---|---|---|
 | 1 | [Numbers ✦ 369](docs/1-numbers.md) | The aligned scale for sizes, time, limits and periods; Grabovoi sequences |
 | 2 | [Colours](docs/2-colours.md) | Colour psychology, culture, roles, accessibility and the hex digit rule |
-| 3 | [Elements & Seasons](docs/3-elements-seasons.md) | The five elements, the Feng Shui elements and their colours, a palette for each season |
+| 3 | [Elements & Seasons](docs/3-elements-seasons.md) | The five elements, Feng Shui (cycles, shapes, fonts, industries, logos, the Bagua, personalities), a palette for each season |
 | 4 | [Symbols](docs/4-symbols.md) | ✦ ✧ ∞ \|\|∿, sacred geometry and the signs of New Homeopathy |
 | 5 | [Words, Texts & Presentations](docs/5-words.md) | High-vibration language, keywords and how to turn a heavy word |
 | 6 | [Sound & Music](docs/6-sound-music.md) | 432 Hz, Solfeggio frequencies, rhythm, the sounds of the elements, sound in products |

@@ -5,6 +5,9 @@
 - **Everything Is Energy:** the seven universal laws QEA respects (Perpetual Transmutation of Energy, Vibration with the Law of Attraction, Relativity, Polarity, Rhythm, Cause and Effect, Gender), each with what it means when we build.
 - Principles: Magical Products (aligned dates, universally aligned design, high-frequency code); the moon, astrology and TimeWaver among the practices.
 - Products, Spaces & Experiences: **Aligned Dates** with the moon phases, the stars and encoded flyers.
+- Elements & Seasons: the Feng Shui elements with properties, associations, fonts and physical objects; the nourishing, controlling and weakening cycles with their reasons in nature; our own drawings of the elements, their shapes, colours and cycles (`assets/`).
+- **Feng Shui for Brands & Business:** the element of each industry, matching the owner's Bazi, logos (elements, colours, shapes, fonts, position and flow), the Bagua as a 3 × 3 guide, and carrying the elements across every channel.
+- **The Five Element Personalities:** the gifts and challenges of each archetype, what balances it, and how to use them with care.
 - Numbers: the 3 · 6 · 9 line often attributed to Tesla; more Grabovoi sequences, who Grabovoi is, a quiet way of holding a sequence, and the note that healing never replaces medical care.
 
 ## 1.2.0 ✦ 12 Nov 2026
