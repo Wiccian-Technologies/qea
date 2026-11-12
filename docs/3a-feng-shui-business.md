@@ -106,6 +106,17 @@ What makes this look:
 - **Generous space** around it, so the qi can flow.
 - **A seal or signature** in a quiet corner, like a painter's stamp.
 
+![A Wood logo: a golden olive tree with interwoven branches in an octagon on deep green](../assets/feng-shui-logo-wood.webp)
+
+*Dimitrije Mikovic, [Olive Oil](https://dribbble.com/shots/19359972-Olive-Oil)*
+
+The same calm in one element: a **Wood** brand.
+
+- **The tree** grows upward from interwoven roots: growth, vitality, family, all from one source.
+- **Deep green with gold:** Wood held by a touch of Metal, which gives it clarity and value.
+- **The octagon,** the eight sides of the Bagua, frames and protects the tree.
+- **Symmetry around a central axis,** fine lines of one weight and space all around.
+
 ### Elements in a Logo
 
 | Element | Energy | Suits | In the logo |
