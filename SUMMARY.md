@@ -5,7 +5,7 @@
 ## Start Here
 
 * [Quick Start](docs/quick-start.md)
-* [Install QEA](docs/install.md)
+* [Apply QEA](docs/apply-qea.md)
 
 ## Foundations
 

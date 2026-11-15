@@ -4,7 +4,7 @@
 
 Apps, websites and tools carry every dimension at once: aligned numbers and colours, element-ordered content, symbols, words, quiet sound and light media. And the code itself carries the same frequency as everything else we create: QEA aligns its numbers, holds its colours in one place, and lets tests keep it aligned.
 
-New to the tools? Start with [Install QEA](install.md). A worked example: [Applying QEA to a Web Product](../examples/web-product.md).
+New to the tools? See [Apply QEA](apply-qea.md#with-code-install-the-tools-in-three-steps). A worked example: [Applying QEA to a Web Product](../examples/web-product.md).
 
 ## Aligned Constants
 

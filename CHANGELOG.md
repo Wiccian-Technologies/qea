@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.1.2 ✦ 15 Nov 2026
+
+- ||∿ is named **lines and sinus curve**, and ∿ the **sinus curve**, as in Körbler's New Homeopathy.
+- The spiral turns like a snail's house (rotated 180°).
+- **Install QEA** is now **Apply QEA** (`docs/apply-qea.md`): by hand with nothing to install, or with the tools in three steps.
+
 ## 2.1.1 ✦ 15 Nov 2026
 
 - Install, Quick Start and README: QEA works by hand without installing anything; the tools make it faster and easier, especially with an AI assistant.

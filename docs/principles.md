@@ -71,7 +71,7 @@ Lines of 1 or 2 px are physical pixels, not design choices. They stay.
 2. **Start from tokens.** Define the aligned scale, colours and durations once (design tokens, CSS custom properties, a theme) and use only those.
 3. **Choose, don't round late.** Pick 36 px from the start rather than designing at 35 and fixing it later.
 4. **Prefer 9.** When two aligned values work, take the one divisible by 9 (18 over 15, 36 over 33, 108 over 105).
-5. **Check automatically.** Run `npx qea-check src/` in CI (see [Install QEA](install.md)), and test your palette (see [Digital Products & Code](apply-digital.md)).
+5. **Check automatically.** Run `npx qea-check src/` in CI (see [Apply QEA](apply-qea.md)), and test your palette (see [Digital Products & Code](apply-digital.md)).
 6. **Write the exceptions down.** Every `qea-ignore` says why.
 
 ## Practices, Not Promises

@@ -21,7 +21,7 @@ The result is coherence: a product where every part feels as if it belongs, calm
 **Anybody can use QEA, and nothing needs to be installed.** Read it, understand it, and apply it by hand to your own work. Installing the tools makes it faster and easier, especially with an AI assistant, but it's never needed. The values here are guidelines and show how we use them; make them your own.
 
 ✦ **New?** Read the [Quick Start](docs/quick-start.md): QEA on one page.
-✦ **Building with code?** [Install QEA](docs/install.md) in three steps.
+✦ **Applying it?** [Apply QEA](docs/apply-qea.md): by hand, or with the tools in three steps.
 ✦ **Going deeper?** [Everything Is Energy](docs/universal-laws.md), the [Principles](docs/principles.md), [Care for the Earth](docs/care-for-the-earth.md) and [Before You Create](docs/before-you-create.md).
 
 ## The Nine Dimensions
@@ -75,7 +75,7 @@ npx qea-check src/ --colours                  # colours only
 npx qea-check src/ --strong                   # numbers must divide by 9
 ```
 
-In code, `@wiccian/qea` gives `isAlignedNumber`, `nearestAligned`, `isAlignedHex`, `alignHex`, `digitSum`, `contrast` and the aligned `SCALE` and `DURATIONS`. No dependencies; Node 20 or newer. Step by step: [Install QEA](docs/install.md).
+In code, `@wiccian/qea` gives `isAlignedNumber`, `nearestAligned`, `isAlignedHex`, `alignHex`, `digitSum`, `contrast` and the aligned `SCALE` and `DURATIONS`. No dependencies; Node 20 or newer. Step by step: [Apply QEA](docs/apply-qea.md).
 
 ---
 

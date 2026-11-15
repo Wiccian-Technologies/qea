@@ -32,7 +32,7 @@ Nine core symbols, few and meaningful:
 | ✧ | Open star | The softer accent: a signature after a name (`Meet Anna ✧`), list items in calm texts |
 | ∞ ∞ ∞ | Infinity | The divider under a section title or between sections |
 | ∞ | Infinity (single) | Abundance, the unbroken flow |
-| \|\|∿ | Lines and sine wave | From New Homeopathy (see below). Placed right after a heavy word or pattern, to turn and release it: `limiting beliefs ||∿` (see [Words](4-words.md)) |
+| \|\|∿ | Lines and sinus curve | From New Homeopathy (see below). Placed right after a heavy word or pattern, to turn and release it: `limiting beliefs ||∿` (see [Words](4-words.md)) |
 | ♥ | Heart | What is given from the heart; care, gratitude |
 | ☉ | Sun | Light, life force, a beginning: sunrise practices, the solstices and equinoxes, a new start (see [Time & Rhythm](8-time-rhythm.md#the-day)) |
 | ☽ ● ◐ ○ ◑ | Moon and its phases | Cycles and timing: the moon phase of a gathering or launch, moon circles, dates on flyers (see [The Moon](8-time-rhythm.md#the-moon)) |
@@ -57,11 +57,11 @@ New Homeopathy (*Neue Homöopathie*) was developed by the Austrian engineer **Er
 | Sign | Name | Described effect |
 |---|---|---|
 | \| \| \| | Lines (the line code) | harmonise and balance; the number of lines matters |
-| ∿ | Sine wave | transforms, smooths and turns a disturbance |
+| ∿ | Sinus curve | transforms, smooths and turns a disturbance |
 | Y | Ypsilon | strengthens; brings energy to where it's needed |
 | ✕ | Cross | erases or neutralises a disturbing pattern |
 
-QEA's **\|\|∿** draws on this language: lines that balance, followed by the sine wave that turns.
+QEA's **\|\|∿** draws on this language: lines that balance, followed by the sinus curve that turns.
 
 In a product, these signs can live quietly: inside a pattern, an icon's geometry, a printed card, the back of a package, or openly in a wellbeing product whose users know and want them. Learn the signs from a trained practitioner or Körbler's own writings before using them, and describe them as a practice, never as a treatment.
 

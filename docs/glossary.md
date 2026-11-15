@@ -28,7 +28,7 @@ The words of QEA, in short.
 | **Hartmann and Curry grids** | Networks of earth energy lines described in geomancy. |
 | **Intention** | The one sentence of whom something serves and how it should feel. |
 | **Muscle testing** | Using the body's muscle response to compare options (from kinesiology). |
-| **New Homeopathy** | Erich Körbler's practice of balancing energy with simple signs such as lines and the sine wave. |
+| **New Homeopathy** | Erich Körbler's practice of balancing energy with simple signs such as lines and the sinus curve. |
 | **qea-ignore** | A comment in code that marks a standard value the check should skip, with its reason. |
 | **Rule of thirds** | Dividing a page, photo or wall into a 3 × 3 grid and placing what matters on its lines. |
 | **Sacred geometry** | Forms and proportions held sacred across cultures: the circle, the Flower of Life, the golden ratio. |
@@ -37,7 +37,7 @@ The words of QEA, in short.
 | **Vortex mathematics** | Marko Rodin's way of seeing numbers by their digit sums: 1 2 4 8 7 5 as a circuit, 3 and 6 as an axis, 9 as the still centre (see [Numbers & Proportion](1-numbers-proportion.md#why-9-vortex-mathematics)). |
 | **Vastu Purusha Mandala** | Vastu's 9 × 9 grid of 81 squares laid over a plan, with an open centre (see [Place & Direction](9-place-direction.md#the-vastu-mandala)). |
 | **Vastu Shastra** | India's ancient science of architecture, aligned with the directions and the elements. |
-| **✦ ✧ ∞ ∞ ∞ ∞ \|\|∿ ♥ ☉ ☽ and the spiral** | QEA's nine core symbols: the star, the open star, the divider, the single infinity, the lines and sine wave from New Homeopathy, the heart, the sun, the moon with its phases, and the spiral turning to the left (see [Shapes & Symbols](3-shapes-symbols.md#core-symbols)). |
+| **✦ ✧ ∞ ∞ ∞ ∞ \|\|∿ ♥ ☉ ☽ and the spiral** | QEA's nine core symbols: the star, the open star, the divider, the single infinity, the lines and sinus curve from New Homeopathy, the heart, the sun, the moon with its phases, and the spiral turning to the left (see [Shapes & Symbols](3-shapes-symbols.md#core-symbols)). |
 
 ---
 [← Keeping It Aligned](keeping-aligned.md) · [Overview →](../README.md)

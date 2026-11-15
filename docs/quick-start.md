@@ -28,11 +28,11 @@ QEA has **nine dimensions** in three families: **Form** (numbers, colours, shape
 
 ## Using the Tools
 
-QEA works without any tools: you can apply everything by hand. Building with code? Installing the tools makes it faster and easier, especially with an AI assistant: [Install QEA](install.md).
+QEA works without any tools: you can apply everything by hand. Building with code? Installing the tools makes it faster and easier, especially with an AI assistant: [Apply QEA](apply-qea.md).
 
 ## Need Help?
 
 Look up a word in the [Glossary](glossary.md), see a [worked example](../examples/web-product.md), or let Wiccian implement QEA for you: [info@wiccian.io](mailto:info@wiccian.io).
 
 ---
-[← Overview](../README.md) · [Install QEA →](install.md)
+[← Overview](../README.md) · [Apply QEA →](apply-qea.md)

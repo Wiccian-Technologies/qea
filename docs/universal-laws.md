@@ -73,4 +73,4 @@ And everything has its gestation period, which we don't always know. Many give u
 **In QEA:** a design is balanced between the feminine and the masculine (soft and strong, curves and lines, warm and cool), so it speaks to everyone. And we give things their time: programmes of 9, 36 or **108 days**, launches on [aligned dates](8-time-rhythm.md#aligned-dates), and patience between planting and harvest.
 
 ---
-[← Install QEA](install.md) · [Principles →](principles.md)
+[← Apply QEA](apply-qea.md) · [Principles →](principles.md)
