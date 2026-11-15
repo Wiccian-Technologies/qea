@@ -31,7 +31,7 @@ Nine qualities, in three families of three.
 | | **I. Form** · *what is seen* | |
 | 1 | [Numbers & Proportion](docs/1-numbers-proportion.md) | The aligned scale, the rule of thirds, the golden ratio, Grabovoi sequences |
 | 2 | [Colours & Light](docs/2-colours-light.md) | Colour psychology, roles, accessibility, the hex digit rule, light |
-| 3 | [Shapes & Symbols](docs/3-shapes-symbols.md) | The shapes of the elements, sacred geometry, ✦ ✧ ∞ \|\|∿, New Homeopathy |
+| 3 | [Shapes & Symbols](docs/3-shapes-symbols.md) | The shapes of the elements, sacred geometry, nine core symbols (✦ ✧ ∞ \|\|∿ ♥ ☉ ☽ and the spiral), New Homeopathy |
 | | **II. Vibration** · *what is heard and felt* | |
 | 4 | [Words](docs/4-words.md) | High-vibration language, keywords, turning a heavy word |
 | 5 | [Sound & Music](docs/5-sound-music.md) | 432 Hz, Solfeggio frequencies, tempo, the sounds of the elements |

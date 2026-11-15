@@ -19,7 +19,7 @@ Nine qualities, in three families of three (3 · 6 · 9 itself):
 | **I. Form** | *what is seen* | |
 | 1 | **Numbers & Proportion** | Sizes, spacing, limits, counts, prices where we choose them; the rule of thirds and the golden ratio |
 | 2 | **Colours & Light** | Every colour's hex value and role; daylight, warm and neutral light |
-| 3 | **Shapes & Symbols** | The shapes of the elements, sacred geometry, ✦ ✧ ∞ \|\|∿ and healing signs |
+| 3 | **Shapes & Symbols** | The shapes of the elements, sacred geometry, the nine core symbols (✦ ✧ ∞ \|\|∿ ♥ ☉ ☽ and the spiral) and healing signs |
 | **II. Vibration** | *what is heard and felt* | |
 | 4 | **Words** | High-vibration wording, keywords, structure, headings and calls to action |
 | 5 | **Sound & Music** | Tuning, frequencies, tempo, lengths and the sounds of the elements |

@@ -24,6 +24,8 @@ BioGeometry (see [Spaces & Architecture](apply-spaces.md#biogeometry)) describes
 
 ## Core Symbols
 
+Nine core symbols, few and meaningful:
+
 | Symbol | Name | Use |
 |---|---|---|
 | ✦ | Star | Frames a call to action on both sides (`✦ Book Your Session ✦`); separates a title from its subtitle (`Your Practice ✦ From Goals to Alignment`); marks list items and questions |
@@ -32,6 +34,9 @@ BioGeometry (see [Spaces & Architecture](apply-spaces.md#biogeometry)) describes
 | ∞ | Infinity (single) | Abundance, the unbroken flow |
 | \|\|∿ | Lines and sine wave | From New Homeopathy (see below). Placed right after a heavy word or pattern, to turn and release it: `limiting beliefs ||∿` (see [Words](4-words.md)) |
 | ♥ | Heart | What is given from the heart; care, gratitude |
+| ☉ | Sun | Light, life force, a beginning: sunrise practices, the solstices and equinoxes, a new start (see [Time & Rhythm](8-time-rhythm.md#the-day)) |
+| ☽ ● ◐ ○ ◑ | Moon and its phases | Cycles and timing: the moon phase of a gathering or launch, moon circles, dates on flyers (see [The Moon](8-time-rhythm.md#the-moon)) |
+| ![Spiral](../.gitbook/assets/spiral-left.svg) | Spiral, turning to the left | Growth, evolution, the path inward and back out; a journey, a programme, a process of change. Always drawn as an icon, turning counter-clockwise from its centre |
 
 ## Sacred Geometry
 

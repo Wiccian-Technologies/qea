@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.0.1 ✦ 15 Nov 2026
+
+- Shapes & Symbols: nine core symbols. New: ☉ the sun, ☽ the moon with its phases ● ◐ ○ ◑, and the spiral turning to the left (drawn, `.gitbook/assets/spiral-left.svg`).
+- ||∿ is named lines and sine wave, as in New Homeopathy; friendlier messages from `qea-check`.
+
 ## 2.0.0 ✦ 15 Nov 2026
 
 A new structure: nine qualities in three families of three, and the places where they come together.
