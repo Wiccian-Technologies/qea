@@ -2,8 +2,9 @@
 
 ## 1.4.0 ✦ 15 Nov 2026
 
-- **Architecture & BioGeometry:** a new page under Products, Spaces & Experiences. BioGeometry's core principles in short (shape carries energy, BG3 and the centre, proportion, the Physics of Quality, balancing the environment) and how QEA applies them to digital products, videos and photos, physical spaces and offices.
-- Principles: BioGeometry among the practices.
+- **Architecture:** a new page under Products, Spaces & Experiences. The traditions it draws on (Feng Shui, Vastu Shastra, sacred geometry, geomancy, building biology, BioGeometry) and what to align through the life of a building, from the land to moving in.
+- BioGeometry as one of these traditions: its core principles in short (shape carries energy, BG3 and the centre, proportion, the Physics of Quality, balancing the environment) and how QEA applies them to digital products, videos and photos, physical spaces and offices.
+- Principles: Vastu Shastra, geomancy and BioGeometry among the practices.
 
 ## 1.3.0 ✦ 12 Nov 2026
 

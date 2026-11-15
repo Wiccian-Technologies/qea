@@ -1,12 +1,34 @@
-# Architecture & BioGeometry
+# Architecture
 
 ∞ ∞ ∞
 
 A building carries a frequency long before anyone lives in it. Its land, direction, proportions and materials are chosen once and felt for decades. This page brings QEA into architecture, best while a building is still being planned, when every choice is still free. Building codes, structural and fire safety and accessibility always win.
 
+## The Traditions We Draw On
+
+QEA architecture brings several old and new traditions together. Each one is a part of the whole; none stands alone.
+
+| Tradition | In short |
+|---|---|
+| **Feng Shui** | The five elements, their directions and the Bagua, placed in a building (see [Elements & Seasons](3-elements-seasons.md) and [Feng Shui for Brands & Business](3a-feng-shui-business.md)) |
+| **Vastu Shastra** | India's ancient science of building: directions, the 9 × 9 mandala of a plan and an open, quiet centre |
+| **Sacred geometry** | Harmonious proportions such as the golden ratio, and the forms of [Symbols](4-symbols.md) |
+| **Geomancy** | Reading the land and its earth energies before anything is built |
+| **Building biology (Baubiologie)** | Natural materials, healthy air and light, and little electrosmog |
+| **BioGeometry** | Shape and a balanced centre bring harmony (see [below](#biogeometry)) |
+
+## Through the Life of a Building
+
+| Phase | What we align |
+|---|---|
+| **The land** | Its earth energies, water and slope; the direction the building will face |
+| **The design** | Orientation, zones and the centre; aligned measurements (see [Numbers](1-numbers.md)); proportions; elements and materials |
+| **The building** | Natural, healthy materials; wiring planned with care; key steps such as breaking ground on [aligned dates](9-products-spaces.md#aligned-dates) |
+| **Moving in** | An opening on an aligned date; light, sound and plants that balance the elements |
+
 ## BioGeometry
 
-BioGeometry was founded in the 1970s by Dr. Ibrahim Karim, an Egyptian architect trained at ETH Zurich. It describes itself as *"the science of using the energy principles of shape to qualitatively balance biological energy systems."* What follows are BioGeometry's own principles, in short.
+BioGeometry was founded in the 1970s by Dr. Ibrahim Karim, an Egyptian architect trained at ETH Zurich. It describes itself as *"the science of using the energy principles of shape to qualitatively balance biological energy systems."* It is one of the traditions on this page. What follows are its own principles, in short.
 
 ### Its Core Principles
 
