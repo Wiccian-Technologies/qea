@@ -8,13 +8,31 @@ Everything is energy (see [Everything Is Energy](universal-laws.md)), and many t
 
 ## The Rule
 
-A free number divides by **3**, ideally by **9**.
+A free number divides by **3**, ideally by **9** (why 9: see [Vortex Mathematics](#why-9-vortex-mathematics)).
 
 ```
 3 · 6 · 9 · 12 · 18 · 24 · 27 · 36 · 45 · 54 · 72 · 81 · 108 · 144 · 162 · 216 · 324 · 432 · 648 · 864 · 1080 · 1296 · 1440 · 2160
 ```
 
 Decimals align by their digits: **3.33**, **6.66**, **9.99**, **1.11**, **0.36** (the digits sum to a multiple of 3).
+
+## Why 9: Vortex Mathematics
+
+Vortex mathematics, described by Marko Rodin, shows why **9** stands above 3 and 6, and above all other numbers, as Tesla is said to have sensed. It works with the **digit sum** (adding the digits of a number until one digit is left: 16 → 1 + 6 = 7).
+
+**The circuit 1 · 2 · 4 · 8 · 7 · 5.** Double 1 again and again: 1, 2, 4, 8, 16 (7), 32 (5), 64 (10 → 1), and it starts again. These six numbers flow in an endless loop, the circuit of the material world. 3, 6 and 9 never appear in it.
+
+**3 and 6 swing between each other.** Double 3 and you get 6; double 6 and you get 12 (3); then 6, 3, 6 … They form their own axis, a pulse between two poles that guides the circuit.
+
+**9 is the still centre.** Double 9 and you get 18 (9), 36 (9), 72 (9), 144 (9) … 9 always returns to itself. Every number multiplied by 9 has a digit sum of 9, and adding 9 to any number doesn't change its digit sum (7 + 9 = 16 → 7). 9 holds all the others and is changed by none: the unity, the source, the whole.
+
+| Number | In vortex mathematics | In QEA |
+|---|---|---|
+| 1 · 2 · 4 · 8 · 7 · 5 | the flowing circuit of matter | free numbers move towards 3, 6 or 9 |
+| 3 · 6 | the swinging axis, the pulse | good: the base of every aligned value |
+| **9** | the still centre, unity | best: **prefer 9** wherever it works |
+
+This is why QEA's rule asks for 3 and prefers 9, and why the master numbers 108, 144, 432 and 1080 all come back to 9. Vortex mathematics is a way of seeing numbers, not established mathematics or physics; we use it as intention and design language (see [Practices, Not Promises](principles.md#practices-not-promises)).
 
 ## Layout
 

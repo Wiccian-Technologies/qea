@@ -5,6 +5,7 @@
 - **Open source:** texts, drawings and palettes under CC BY-SA 4.0, tools under MIT (`LICENSE.md`, `LICENSE`).
 - **Your Own Resonance** (Principles): the values are guidelines; everyone is free to make QEA their own. Anybody can use QEA without installing anything.
 - Contact for questions and implementation: info@wiccian.io.
+- Numbers & Proportion: **Why 9: Vortex Mathematics** (the 1 2 4 8 7 5 circuit, the 3 and 6 axis, 9 as the still centre).
 
 ## 2.0.1 ✦ 15 Nov 2026
 

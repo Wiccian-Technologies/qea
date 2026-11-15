@@ -34,6 +34,7 @@ The words of QEA, in short.
 | **Sacred geometry** | Forms and proportions held sacred across cultures: the circle, the Flower of Life, the golden ratio. |
 | **Solfeggio frequencies** | Nine tones used in sound healing, such as 528 Hz. |
 | **Token** | A named value in code (a size, a colour, a duration) defined once and used everywhere. |
+| **Vortex mathematics** | Marko Rodin's way of seeing numbers by their digit sums: 1 2 4 8 7 5 as a circuit, 3 and 6 as an axis, 9 as the still centre (see [Numbers & Proportion](1-numbers-proportion.md#why-9-vortex-mathematics)). |
 | **Vastu Purusha Mandala** | Vastu's 9 × 9 grid of 81 squares laid over a plan, with an open centre (see [Place & Direction](9-place-direction.md#the-vastu-mandala)). |
 | **Vastu Shastra** | India's ancient science of architecture, aligned with the directions and the elements. |
 | **✦ ✧ ∞ ∞ ∞ ∞ \|\|∿ ♥ ☉ ☽ and the spiral** | QEA's nine core symbols: the star, the open star, the divider, the single infinity, the lines and sine wave from New Homeopathy, the heart, the sun, the moon with its phases, and the spiral turning to the left (see [Shapes & Symbols](3-shapes-symbols.md#core-symbols)). |
