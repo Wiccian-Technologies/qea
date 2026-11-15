@@ -1,4 +1,4 @@
-# 6 ✦ Sound & Music
+# 5 ✦ Sound & Music
 
 ∞ ∞ ∞
 
@@ -45,6 +45,8 @@ The Earth's own resonance, the **Schumann resonance**, lies at about **7.83 Hz**
 
 ## Rhythm and Tempo
 
+The wider rhythms of the day, the moon and the seasons are on [Time & Rhythm](8-time-rhythm.md).
+
 | What | Aligned |
 |---|---|
 | Calm, meditation | 54, 60, 63 BPM (near the resting heartbeat) |
@@ -88,4 +90,4 @@ The seasons follow: spring birdsong and flutes, summer cicadas and drums, late s
 Frequencies, tunings and brainwave effects are practices, not proven treatments: describe what a sound is meant to support, never promise healing (see [Principles](principles.md#practices-not-promises)).
 
 ---
-[← Words](5-words.md) · [Images & Films →](7-images-films.md)
+[← Words](4-words.md) · [Touch, Scent & Taste →](6-touch-scent-taste.md)

@@ -1,17 +1,17 @@
-# Feng Shui for Brands & Business
+# Brands & Business
 
 ∞ ∞ ∞
 
-In business Feng Shui, a company's logo, fonts and colour scheme are strengthened with the five elements. The same elements then carry through everything the business shows: marketing, promotion, social media, the website, print, the space. A brand designed this way isn't only seen, it is felt: balanced, trustworthy and in harmony with the people it serves.
+QEA builds a brand from its intention and its element, with Feng Shui as the guide. In business Feng Shui, a company's logo, fonts and colour scheme are strengthened with the five elements. The same elements then carry through everything the business shows: marketing, promotion, social media, the website, print, the space. A brand designed this way isn't only seen, it is felt: balanced, trustworthy and in harmony with the people it serves.
 
-The elements, their colours, shapes and cycles are on [Elements & Seasons](3-elements-seasons.md#the-five-feng-shui-elements-wu-xing).
+The elements, their colours, shapes and cycles are on [Elements](7-elements.md#the-five-feng-shui-elements-wu-xing).
 
 ![The five elements and what they are associated with](../.gitbook/assets/five-elements-cards.svg)
 
 ## Finding a Business's Elements
 
 1. **The element of the industry:** what the business does (see the tables below).
-2. **The owner's element:** the element that is most favourable in the owner's Bazi chart (see [Matching the Owner's Bazi](3a-feng-shui-business.md#matching-the-owners-bazi)).
+2. **The owner's element:** the element that is most favourable in the owner's Bazi chart (see [Matching the Owner's Bazi](apply-brands.md#matching-the-owners-bazi)).
 3. **What the brand wants to radiate:** growth (Wood), passion (Fire), trust (Earth), clarity (Metal), flow (Water).
 4. **Balance them** with the cycles: strengthen with the element that nourishes, soften with the element that drains, and keep the one that controls for a deliberate accent.
 
@@ -135,7 +135,7 @@ The same calm in one element: a **Wood** brand.
 * **White and metallic** (Metal): purity, clarity, precision; sleek and timeless. Tech, luxury, new ventures.
 * **Blue and black** (Water): wisdom, depth, adaptability, vastness. Global companies, communication, travel.
 
-The full colour families of each element, aligned: see [A Palette for Each Season](3-elements-seasons.md#a-palette-for-each-season) and [Colours](2-colours.md).
+The full colour families of each element, aligned: see [A Palette for Each Season](8-time-rhythm.md#a-palette-for-each-season) and [Colours & Light](2-colours-light.md).
 
 ![The colours of the five elements](../.gitbook/assets/five-elements-colours.svg)
 
@@ -161,19 +161,12 @@ Qi needs to flow freely, in a logo as in a room.
 * **Harmony of elements:** no single shape, colour or symbol overpowers another.
 * **Interaction:** parts that overlap, intertwine or merge do so seamlessly, so their energies strengthen each other.
 
-QEA's own rules join here: sizes, spacing and radii in 3 · 6 · 9 (see [Numbers](1-numbers.md)), sacred geometry (see [Symbols](4-symbols.md)).
+QEA's own rules join here: sizes, spacing and radii in 3 · 6 · 9 (see [Numbers & Proportion](1-numbers-proportion.md)), sacred geometry (see [Shapes & Symbols](3-shapes-symbols.md)).
 
 ### The Bagua
 
-The Bagua map divides a space into nine areas, a 3 × 3 grid, each with its life theme, element and colour. It analyses rooms and buildings, and serves just as well as a guide for placing the parts of a logo, a page or a print. Laid with the entrance (or the reader's starting point) at the bottom:
+The Bagua, Feng Shui's 3 × 3 map of the areas of life, also guides where the parts of a logo, a page or a print sit: see [The Bagua](9-place-direction.md#the-bagua).
 
-|                                              |                                                   |                                            |
-| -------------------------------------------- | ------------------------------------------------- | ------------------------------------------ |
-| **Wealth & abundance** · Wood · purple, gold | **Fame & reputation** · Fire · red                | **Love & relationships** · Earth · pink    |
-| **Family & roots** · Wood · green            | **Health & centre** · Earth · yellow, earth tones | **Creativity & children** · Metal · white  |
-| **Knowledge & wisdom** · Earth · blue        | **Career & path** · Water · black, deep blue      | **Helpful people & travel** · Metal · grey |
-
-On a page or a flyer: the main message in the centre (health, balance), what the brand wants to be known for at the top (fame), the next step for the reader near the bottom (path). In a shop or studio: see [Spaces](9-products-spaces.md#spaces).
 
 ## Across Every Channel
 
@@ -181,11 +174,12 @@ Once the elements are chosen, they flow into everything:
 
 * **Website and app:** palette, shapes of buttons, cards and icons, fonts, the rhythm of motion.
 * **Social media:** a feed that keeps the element's colours and forms; photographs with its objects (plants for Wood, candles and light for Fire, stone for Earth, metal and white for Metal, water for Water).
-* **Print and packaging:** flyers, cards and bags in the element's colours and shapes, on [aligned dates](9-products-spaces.md#aligned-dates).
+* **Print and packaging:** flyers, cards and bags in the element's colours and shapes, on [aligned dates](8-time-rhythm.md#aligned-dates).
 * **Space:** the shop, studio or office, placed by the Bagua and the directions.
 
 ***
 
 Sources: business Feng Shui industry lists; [thefengshuiacademy.com/5-elements](https://www.thefengshuiacademy.com/5-elements/) (cycles).
 
-[← Elements & Seasons](3-elements-seasons.md) · [The Five Element Personalities →](3b-element-personalities.md)
+---
+[← Images & Films](apply-images-films.md) · [Products & Print →](apply-products-print.md)

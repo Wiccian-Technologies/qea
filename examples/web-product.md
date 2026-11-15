@@ -41,7 +41,7 @@ Silent by default. An optional soft chime of 360 ms on a confirmed booking; clas
 ## Code
 
 ```css
-@import "qea/palette/starter.css";
+@import "@wiccian/qea/palette.css";
 :root { --spacing: 3px; --radius-button: 12px; --duration-calm: 360ms; }
 ```
 

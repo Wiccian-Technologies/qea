@@ -1,8 +1,26 @@
-# 4 ✦ Symbols
+# 3 ✦ Shapes & Symbols
 
 ∞ ∞ ∞
 
-Sacred geometry, healing signs and power symbols from around the world are known for their beneficial vibration and protection. QEA uses a few of them, few and meaningful, to hold a field around a person, a business and its work.
+Every shape carries a quality: a circle feels whole, a point feels sharp, a wave feels free. Traditions around the world hold sacred geometry, healing signs and symbols as carriers of a good vibration and of protection. QEA uses shapes with intention, and symbols few and meaningful, to hold a field around a person, a business and its work.
+
+## Shapes of the Elements
+
+![The five elements with their shapes](../.gitbook/assets/five-elements-shapes.svg)
+
+| Element | Shapes | Feels |
+|---|---|---|
+| **Wood** | tall, rectangular, columns, stripes, vertical lines | growing, alive |
+| **Fire** | triangles, points, stars, sharp edges | energetic, bright |
+| **Earth** | squares, cubes, flat and broad forms | stable, safe |
+| **Metal** | circles, spheres, ovals, arches | clear, whole |
+| **Water** | waves, free and flowing forms | soft, deep |
+
+Balance shapes as you balance the elements (see [Elements](7-elements.md)).
+
+## Shape Carries Energy
+
+BioGeometry (see [Spaces & Architecture](apply-spaces.md#biogeometry)) describes every shape as carrying an energy quality through its form alone, with a balanced centre bringing harmony. In practice: prefer whole, centred, balanced shapes and gentle curves; keep a calm centre; avoid crowded, broken or aggressive forms where people should feel at ease.
 
 ## Core Symbols
 
@@ -12,7 +30,7 @@ Sacred geometry, healing signs and power symbols from around the world are known
 | ✧ | Open star | The softer accent: a signature after a name (`Meet Anna ✧`), list items in calm texts |
 | ∞ ∞ ∞ | Infinity | The divider under a section title or between sections |
 | ∞ | Infinity (single) | Abundance, the unbroken flow |
-| \|\|∿ | Turning wave | Placed right after a heavy word or pattern, to turn and release it: `limiting beliefs ||∿` (see [Words](5-words.md)) |
+| \|\|∿ | Turning wave | Placed right after a heavy word or pattern, to turn and release it: `limiting beliefs ||∿` (see [Words](4-words.md)) |
 | ♥ | Heart | What is given from the heart; care, gratitude |
 
 ## Sacred Geometry
@@ -26,8 +44,6 @@ Sacred geometry, healing signs and power symbols from around the world are known
 | Flower of Life | the pattern of all life, connection | backgrounds, films, ornaments |
 | Vesica Piscis | meeting, the space between two | logos, transitions |
 | Golden ratio (1 : 1.618) | natural proportion, beauty | layout proportions (a standard of its own; it may sit beside 3 · 6 · 9) |
-
-Shapes of the Feng Shui elements (columns for Wood, points for Fire, squares for Earth, circles for Metal, waves for Water) are in [Elements & Seasons](3-elements-seasons.md).
 
 ## Signs of New Homeopathy
 
@@ -46,7 +62,7 @@ In a product, these signs can live quietly: inside a pattern, an icon's geometry
 
 ## Elements
 
-The alchemical signs 🜃 🜄 🜂 🜁 and ✧ name the five elements wherever they appear (see [Elements & Seasons](3-elements-seasons.md)).
+The alchemical signs 🜃 🜄 🜂 🜁 and ✧ name the five elements wherever they appear (see [Elements](7-elements.md)).
 
 ## Usage
 
@@ -54,7 +70,7 @@ The alchemical signs 🜃 🜄 🜂 🜁 and ✧ name the five elements wherever
 - **Drawn or typed, never as emoji pictures:** prefer the typographic symbol or a drawn icon over colourful emoji. Never yellow smiley faces in interfaces.
 - **Where a font can't draw a symbol** (link preview images, some PDFs), draw it as an SVG instead of leaving an empty box.
 - **Respect origins:** symbols from living traditions are used with respect and their meaning intact, never as decoration that contradicts them.
-- **Quiet integration:** symbols may also live where they aren't seen at first glance (a texture, an icon's geometry, a code comment). See [Images & Films](7-images-films.md).
+- **Quiet integration:** symbols may also live where they aren't seen at first glance (a texture, an icon's geometry, a code comment). See [Images & Films](apply-images-films.md).
 
 ---
-[← Elements & Seasons](3-elements-seasons.md) · [Words →](5-words.md)
+[← Colours & Light](2-colours-light.md) · [Words →](4-words.md)

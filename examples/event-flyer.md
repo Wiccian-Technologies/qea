@@ -12,7 +12,7 @@ The leading element is Water (the sea, calm), with a touch of Fire (the sunrise)
 
 ## Date and Time
 
-The series begins on a new moon. Sessions start at 6:00 and last 54 minutes; the first gathering is announced 9 days ahead (see [Aligned Dates](../docs/9-products-spaces.md#aligned-dates)).
+The series begins on a new moon. Sessions start at 6:00 and last 54 minutes; the first gathering is announced 9 days ahead (see [Aligned Dates](../docs/8-time-rhythm.md#aligned-dates)).
 
 ## Size and Layout
 
@@ -35,7 +35,7 @@ A sun rising over three waves; ∞ ∞ ∞ as the divider; a Flower of Life at 9
 
 ## Print
 
-Uncoated, recycled paper; the symbol embossed rather than printed (see [Touch, Scent & Taste](../docs/9b-senses.md) and [Care for the Earth](../docs/care-for-the-earth.md)).
+Uncoated, recycled paper; the symbol embossed rather than printed (see [Touch, Scent & Taste](../docs/6-touch-scent-taste.md) and [Care for the Earth](../docs/care-for-the-earth.md)).
 
 ---
 [← Overview](../README.md)

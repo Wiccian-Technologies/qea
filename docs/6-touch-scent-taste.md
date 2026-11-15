@@ -1,4 +1,4 @@
-# Touch, Scent & Taste
+# 6 ✦ Touch, Scent & Taste
 
 ∞ ∞ ∞
 
@@ -6,7 +6,7 @@ Sight, sound and words reach people from afar. Touch, scent and taste reach them
 
 ## Touch
 
-- **Materials by element:** wood and linen for Wood, clay, stone and wool for Earth, metal and glass for Metal, smooth and flowing fabrics for Water, warm, textured surfaces for Fire (see [Elements & Seasons](3-elements-seasons.md)).
+- **Materials by element:** wood and linen for Wood, clay, stone and wool for Earth, metal and glass for Metal, smooth and flowing fabrics for Water, warm, textured surfaces for Fire (see [Elements](7-elements.md)).
 - **Natural first:** wood, stone, clay, cotton, linen, wool, paper with texture.
 - **Pleasant to hold:** soft edges and rounded corners, a good weight, surfaces that feel warm rather than cold.
 - **Print:** uncoated or recycled paper, embossing for symbols that are felt more than seen.
@@ -26,7 +26,7 @@ Sight, sound and words reach people from afar. Touch, scent and taste reach them
 
 ## Aligned Counts
 
-Where they're free: 3, 6 or 9 dishes, scents or materials in a set; tastings and ceremonies of 36, 54 or 108 minutes (see [Numbers](1-numbers.md)). Food safety and labelling rules always win.
+Where they're free: 3, 6 or 9 dishes, scents or materials in a set; tastings and ceremonies of 36, 54 or 108 minutes (see [Numbers & Proportion](1-numbers-proportion.md)). Food safety and labelling rules always win.
 
 ---
-[← Architecture](9a-architecture.md) · [Testing Resonance →](testing-resonance.md)
+[← Sound & Music](5-sound-music.md) · [Elements →](7-elements.md)

@@ -40,7 +40,7 @@ Everything in the material world is made real by its relation to something else.
 
 How we compare either lifts us up or holds us down. Let the comparison help you find the good, and it lifts.
 
-**In QEA:** we never rank or compare people in a product: no leaderboards, no "better than". We show each thing in relation to its own growth, and we give meaning deliberately through words, colour and symbols (see [Words](5-words.md)).
+**In QEA:** we never rank or compare people in a product: no leaderboards, no "better than". We show each thing in relation to its own growth, and we give meaning deliberately through words, colour and symbols (see [Words](4-words.md)).
 
 ## 4 ✦ The Law of Polarity
 
@@ -48,13 +48,13 @@ Nothing exists without its opposite. Where there is hate, love exists too. Where
 
 Knowing that every challenge holds the seed of its opposite turns life into learning and adventure.
 
-**In QEA:** an error, an empty page, a "no" each hold their opposite. An empty state shows the next step; an error says kindly what to do; a heavy word is turned into a light one with ||∿ (see [Words](5-words.md)). Light and dark themes are one design.
+**In QEA:** an error, an empty page, a "no" each hold their opposite. An empty state shows the next step; an error says kindly what to do; a heavy word is turned into a light one with ||∿ (see [Words](4-words.md)). Light and dark themes are one design.
 
 ## 5 ✦ The Law of Rhythm
 
 Energy moves like a pendulum: whatever swings to the right swings back to the left. Everything is part of a dance, flowing and swinging back and forth. Everything is either growing or letting go. The better we understand this rhythm, the better we see what a moment asks for.
 
-**In QEA:** we time things with the natural cycles: the seasons and their elements (see [Elements & Seasons](3-elements-seasons.md)) and the phases of the moon (see [Aligned Dates](9-products-spaces.md#aligned-dates)). Motion in a product is calm and breathes in and out; work has times of growth and times of rest.
+**In QEA:** we time things with the natural cycles: the seasons and their elements (see [Time & Rhythm](8-time-rhythm.md#the-seasons)) and the phases of the moon (see [Aligned Dates](8-time-rhythm.md#aligned-dates)). Motion in a product is calm and breathes in and out; work has times of growth and times of rest.
 
 ## 6 ✦ The Law of Cause and Effect
 
@@ -70,7 +70,7 @@ Nothing new is ever really created or destroyed: what seems new is something tha
 
 And everything has its gestation period, which we don't always know. Many give up just before the seed breaks through the ground. Plant the seed, have faith and wait. What you are seeking is also seeking you.
 
-**In QEA:** a design is balanced between the feminine and the masculine (soft and strong, curves and lines, warm and cool), so it speaks to everyone. And we give things their time: programmes of 9, 36 or **108 days**, launches on [aligned dates](9-products-spaces.md#aligned-dates), and patience between planting and harvest.
+**In QEA:** a design is balanced between the feminine and the masculine (soft and strong, curves and lines, warm and cool), so it speaks to everyone. And we give things their time: programmes of 9, 36 or **108 days**, launches on [aligned dates](8-time-rhythm.md#aligned-dates), and patience between planting and harvest.
 
 ---
-[← Quick Start](quick-start.md) · [Principles →](principles.md)
+[← Install QEA](install.md) · [Principles →](principles.md)

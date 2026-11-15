@@ -1,8 +1,10 @@
-# 8 ✦ Code
+# Digital Products & Code
 
 ∞ ∞ ∞
 
-Code carries the same frequency as everything else we create. QEA aligns its numbers, holds its colours in one place, and lets tests keep it aligned.
+Apps, websites and tools carry every dimension at once: aligned numbers and colours, element-ordered content, symbols, words, quiet sound and light media. And the code itself carries the same frequency as everything else we create: QEA aligns its numbers, holds its colours in one place, and lets tests keep it aligned.
+
+New to the tools? Start with [Install QEA](install.md). A worked example: [Applying QEA to a Web Product](../examples/web-product.md).
 
 ## Aligned Constants
 
@@ -29,7 +31,7 @@ Define the aligned scale once and use only that.
 **CSS:**
 
 ```css
-@import "qea/palette/starter.css";
+@import "@wiccian/qea/palette.css";
 
 :root {
   --space: 3px; /* everything is a multiple of 3 */
@@ -58,7 +60,7 @@ Colours live only in the palette (one CSS file and, if needed, one code module t
 ## Tests That Keep It Aligned
 
 ```js
-import { isAlignedHex } from "qea/tools/qea.mjs";
+import { isAlignedHex } from "@wiccian/qea";
 
 test("every colour follows 369", () => {
   for (const [name, hex] of Object.entries(PALETTE)) expect([name, isAlignedHex(hex)]).toEqual([name, true]);
@@ -68,7 +70,7 @@ test("every colour follows 369", () => {
 And in CI:
 
 ```bash
-node tools/qea-check.mjs src/
+npx qea-check src/
 ```
 
 ## Intention Comments
@@ -82,4 +84,4 @@ Compilers ignore comments; the intention in them stays. A Grabovoi sequence may 
 Keep them true, short and kind, and never put secrets or noise in them.
 
 ---
-[← Images & Films](7-images-films.md) · [Products, Spaces & Experiences →](9-products-spaces.md)
+[← Place & Direction](9-place-direction.md) · [Images & Films →](apply-images-films.md)

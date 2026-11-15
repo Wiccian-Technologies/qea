@@ -1,4 +1,4 @@
-# 2 ✦ Colours
+# 2 ✦ Colours & Light
 
 ∞ ∞ ∞
 
@@ -57,7 +57,7 @@ Financial screens are a known trap: in China, Japan and Korea, red usually shows
 | Spirit, imagination | violet, lavender, indigo |
 | Ground and rest | off-white, sand, stone, deep warm grey |
 
-For colours that follow the time of year and the five Feng Shui elements, see [Elements & Seasons](3-elements-seasons.md).
+For the colours of the five elements, see [Elements](7-elements.md); for a palette for each season, see [Time & Rhythm](8-time-rhythm.md#a-palette-for-each-season).
 
 ## Building a Palette
 
@@ -101,6 +101,19 @@ A colour that doesn't align moves by **one hex step**, invisible to the eye:
 
 Mix with aligned percentages: 9, 18, 36, 54, 72 % (`color-mix(in srgb, var(--qea-blue) 54%, transparent)`). Avoid unaligned eight-digit hex values.
 
+## Light
+
+Colours are light, and light itself is the first colour of every space and screen.
+
+| Light | Feels | Use |
+|---|---|---|
+| Daylight | alive, clear, natural | always first: windows, outdoor sessions, photos in natural light |
+| Warm (2700–3000 K) | rest, welcome, evening | homes, rest rooms, evening gatherings, candles and fire |
+| Neutral (3500–4000 K) | focus, clarity | offices, studios, workspaces |
+| Sunrise and sunset | beginning, softness | practices, photos, gatherings (see [Time & Rhythm](8-time-rhythm.md#the-day)) |
+
+On screens: offer a dark mode, and warmer, dimmer colours in the evening. Avoid flashing and harsh, blue-white light at night.
+
 ## Starter Palette
 
 A neutral starting point to prototype with or to model your own on: nine hue families, each a strong colour (text-safe on Paper) and a soft surface. Data in [`palette/starter.json`](../palette/starter.json), CSS in [`palette/starter.css`](../palette/starter.css).
@@ -118,4 +131,4 @@ A neutral starting point to prototype with or to model your own on: nine hue fam
 | Violet | imagination, wisdom | `#6b4fba` | 5.8 | Lavender `#e9e3f8` |
 
 ---
-[← Numbers](1-numbers.md) · [Elements & Seasons →](3-elements-seasons.md)
+[← Numbers & Proportion](1-numbers-proportion.md) · [Shapes & Symbols →](3-shapes-symbols.md)

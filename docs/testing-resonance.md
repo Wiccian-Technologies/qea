@@ -14,7 +14,7 @@ Muscle testing (from kinesiology) uses the body's response to compare options: t
 
 ## Dowsing
 
-With a pendulum or dowsing rods, a trained dowser can test options, materials and places, for example where a desk or a bed is best placed (see [Architecture](9a-architecture.md)).
+With a pendulum or dowsing rods, a trained dowser can test options, materials and places, for example where a desk or a bed is best placed (see [Spaces & Architecture](apply-spaces.md)).
 
 ## Bioresonance
 
@@ -29,4 +29,4 @@ The people a product serves are the truest test. Show them, listen to how they f
 Resonance testing is a practice, not a scientific measurement (see [Practices, Not Promises](principles.md#practices-not-promises)). When a test and a standard disagree (contrast, safety, the law), the standard wins.
 
 ---
-[← Touch, Scent & Taste](9b-senses.md) · [Before It Goes Out →](checklist.md)
+[← Experiences & Events](apply-experiences.md) · [Before It Goes Out →](checklist.md)

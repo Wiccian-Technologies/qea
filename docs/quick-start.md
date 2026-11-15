@@ -12,17 +12,25 @@ Everything is energy. Everything we make (a page, a product, a room, an event) c
 
 1. **Align yourself.** Breathe, feel your heart, clear your space (see [Before You Create](before-you-create.md)).
 2. **Write the intention.** One sentence: whom does this serve, and how should it feel?
-3. **Use 3 · 6 · 9.** Every number you choose freely divides by 3, ideally by 9: 9, 18, 36, 54, 108 … (see [Numbers](1-numbers.md)).
-4. **Align the colours.** The six hex digits of each colour add up to a multiple of 3 (see [Colours](2-colours.md)), or use a ready [palette](../palette/starter.css).
-5. **Choose your element.** Fire, Earth, Metal, Water or Wood: one leads, the others balance it (see [Elements & Seasons](3-elements-seasons.md)).
-6. **Speak kindly.** Positive, heart-based words; name the wish, not the fear (see [Words](5-words.md)).
-7. **Add the quiet touches.** A symbol, a 432 Hz sound, sacred proportions, natural materials, an aligned date.
+3. **Use 3 · 6 · 9.** Every number you choose freely divides by 3, ideally by 9: 9, 18, 36, 54, 108 … (see [Numbers & Proportion](1-numbers-proportion.md)).
+4. **Align the colours.** The six hex digits of each colour add up to a multiple of 3 (see [Colours & Light](2-colours-light.md)), or use a ready [palette](../palette/starter.css).
+5. **Choose your element.** Fire, Earth, Metal, Water or Wood: one leads, the others balance it (see [Elements](7-elements.md)).
+6. **Speak kindly.** Positive, heart-based words; name the wish, not the fear (see [Words](4-words.md)).
+7. **Add the quiet touches.** A symbol (see [Shapes & Symbols](3-shapes-symbols.md)), a 432 Hz sound (see [Sound & Music](5-sound-music.md)), natural materials (see [Touch, Scent & Taste](6-touch-scent-taste.md)), an aligned date (see [Time & Rhythm](8-time-rhythm.md)), a calm place (see [Place & Direction](9-place-direction.md)).
 8. **Keep the standards.** Accessibility, safety, the law and other people's words always win (see [Principles](principles.md)).
 9. **Feel and check.** Test how it resonates (see [Testing Resonance](testing-resonance.md)), then go through [Before It Goes Out](checklist.md).
+
+## The Map
+
+QEA has **nine dimensions** in three families: **Form** (numbers, colours, shapes), **Vibration** (words, sound, touch, scent and taste) and **Nature** (elements, time, place). They come together **where QEA lives**: digital products, brands, print, spaces and events.
+
+## Using the Tools
+
+No code? Nothing to install. Building with code? Three steps: [Install QEA](install.md).
 
 ## Need Help?
 
 Look up a word in the [Glossary](glossary.md), see a [worked example](../examples/web-product.md), or let [Wiccian](https://wiccian.io) implement QEA for you.
 
 ---
-[← Overview](../README.md) · [Everything Is Energy →](universal-laws.md)
+[← Overview](../README.md) · [Install QEA →](install.md)

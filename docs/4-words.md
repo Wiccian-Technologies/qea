@@ -1,4 +1,4 @@
-# 5 ✦ Words, Texts & Presentations
+# 4 ✦ Words
 
 ∞ ∞ ∞
 
@@ -34,7 +34,7 @@ An affirmation can close a page or a document, in the present tense and first pe
 - **Headings in title case** ("Questions before You Begin"), body text in sentence case.
 - **Calls to action framed by ✦** (`✦ Start Your Journey ✦`).
 - **Sections in three, six or nine parts** where content allows: three steps, six benefits, nine questions.
-- **Element order** for anything grouped by element (see [Elements & Seasons](3-elements-seasons.md)).
+- **Element order** for anything grouped by element (see [Elements](7-elements.md)).
 - **Seasonal voice:** let campaigns speak with the season's energy (spring begins, summer celebrates, autumn simplifies, winter reflects).
 
 ## Everyone Keeps Their Own Words
@@ -42,4 +42,4 @@ An affirmation can close a page or a document, in the present tense and first pe
 Clients, partners and users speak in their own voice. QEA offers wording when it is asked for; it never rewrites someone's text against their will or forces one brand's vocabulary onto another's.
 
 ---
-[← Symbols](4-symbols.md) · [Sound & Music →](6-sound-music.md)
+[← Shapes & Symbols](3-shapes-symbols.md) · [Sound & Music →](5-sound-music.md)

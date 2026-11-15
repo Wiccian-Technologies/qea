@@ -25,15 +25,15 @@ Before anything is drawn, a geomancer reads the land: where water runs beneath i
 
 ## Building
 
-Ground is broken on a new moon; the first stone is laid with an intention written inside it; the house opens on a full moon with a ceremony of gratitude (see [Aligned Dates](../docs/9-products-spaces.md#aligned-dates)).
+Ground is broken on a new moon; the first stone is laid with an intention written inside it; the house opens on a full moon with a ceremony of gratitude (see [Aligned Dates](../docs/8-time-rhythm.md#aligned-dates)).
 
 ## The Senses
 
-Warm 2700 K light in the evening; the sound of the fountain and the sea; copal or palo santo at the welcome; local, seasonal plant-rich food; linen and wool to touch (see [Touch, Scent & Taste](../docs/9b-senses.md)).
+Warm 2700 K light in the evening; the sound of the fountain and the sea; copal or palo santo at the welcome; local, seasonal plant-rich food; linen and wool to touch (see [Touch, Scent & Taste](../docs/6-touch-scent-taste.md)).
 
 ## Programmes
 
-Retreats of 3, 6 or 9 days, groups of 9 or 18, sessions of 54 or 108 minutes, rhythms that follow the local wet and dry seasons (see [Seasons around the World](../docs/3-elements-seasons.md#seasons-around-the-world)).
+Retreats of 3, 6 or 9 days, groups of 9 or 18, sessions of 54 or 108 minutes, rhythms that follow the local wet and dry seasons (see [Seasons around the World](../docs/8-time-rhythm.md#seasons-around-the-world)).
 
 ## Standards Win
 

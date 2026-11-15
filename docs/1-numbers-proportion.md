@@ -1,10 +1,10 @@
-# 1 ✦ Numbers · 369
+# 1 ✦ Numbers & Proportion
 
 ∞ ∞ ∞
 
 > *"If you only knew the magnificence of the 3, 6 and 9, then you would have a key to the universe."* (often attributed to Nikola Tesla)
 
-Everything is energy (see [Everything Is Energy](universal-laws.md)): think in terms of energy, frequency and vibration. Focusing on certain numbers has protective, connecting and manifesting effects. QEA works with the power of **3 · 6 · 9** and with the master patterns **108**, **144** and **432**.
+Everything is energy (see [Everything Is Energy](universal-laws.md)), and many traditions see each number as carrying its own vibration. QEA works with **3 · 6 · 9**, the master patterns **108**, **144** and **432**, and the natural proportion of the golden ratio.
 
 ## The Rule
 
@@ -32,14 +32,17 @@ Decimals align by their digits: **3.33**, **6.66**, **9.99**, **1.11**, **0.36**
 
 ## Time
 
-| What | Aligned values |
-|---|---|
-| Interface motion | **180, 270, 360, 540, 720, 1080, 1440 ms**: calm, never flashy |
-| Delays | 0, 504, 1008, 1512, 2016 ms when steps of half a second are wanted |
-| Toasts, notices | 3, 6 or 9 seconds |
-| Timeouts, retries | 3 tries; 9, 18 or 36 seconds |
-| Code and link lifetimes | 9 minutes, 36 hours, 9 days, 30 days |
-| Programmes and periods | **108 days** (a full cycle of change), 6 months, 9 months |
+Durations, dates and rhythms have their own page: [Time & Rhythm](8-time-rhythm.md).
+
+
+## Proportion
+
+Proportion is how sizes relate to each other. Two natural measures of harmony work together in QEA:
+
+- **The rule of thirds:** divide a page, a photo or a wall into a 3 × 3 grid and place what matters on its lines and crossings.
+- **The golden ratio (1 : 1.618):** the proportion of shells, flowers and temples. Where it guides a layout, round it to the nearest aligned number: a 1080 px area divides into 666 and 414; a 720 px column sits beside a 444 px one.
+
+The sacred forms behind these proportions are on [Shapes & Symbols](3-shapes-symbols.md#sacred-geometry).
 
 ## Limits and Counts
 
@@ -63,7 +66,7 @@ When the price or share is yours to set, align it:
 
 ## Pictures
 
-Longest edge 144, 216, 432, 720, 1080, 1296, 1440 or 2160 px. Standards keep their size (1200 × 630 link previews, 1920 × 1080 films). See [Images & Films](7-images-films.md).
+Longest edge 144, 216, 432, 720, 1080, 1296, 1440 or 2160 px. Standards keep their size (1200 × 630 link previews, 1920 × 1080 films). See [Images & Films](apply-images-films.md).
 
 ## Turning a Number
 
@@ -100,11 +103,11 @@ Use your intuition; this is a guide, not a ritual to recite word for word.
 
 ### In a Product
 
-- **In the making:** in an intention comment at the top of a module, in a project's name or a team ritual, in the background of a print file or a flyer (see [Aligned Dates](9-products-spaces.md#aligned-dates)).
+- **In the making:** in an intention comment at the top of a module, in a project's name or a team ritual, in the background of a print file or a flyer (see [Encoded Materials](apply-products-print.md#encoded-materials)).
 - **In what users see,** only where your audience knows and welcomes them (a wellbeing app, a retreat, a coaching programme), with the intention named in words beside them.
 - **Never** as a promise of health, money or results, and never hidden in a way that would surprise users who don't share the practice. Healing is everyone's own responsibility and never replaces medical care: anyone with a health concern sees a doctor, pharmacist or specialist.
 
 Take sequences from Grabovoi's published books, not from lists online, and keep the spaces as written; the meanings above are how they are commonly cited.
 
 ---
-[← Principles](principles.md) · [Colours →](2-colours.md)
+[← Before You Create](before-you-create.md) · [Colours & Light →](2-colours-light.md)

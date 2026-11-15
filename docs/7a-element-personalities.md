@@ -4,7 +4,7 @@
 
 Each of the five elements is also an archetype of character. Everyone carries all five, usually with one or two strong. Each archetype has its gifts and its challenges: knowing the gifts helps us see our own; understanding the challenges lets us work with those energies skilfully, so they don't get the best of us.
 
-In QEA the archetypes help us understand the people we build for and with: how to speak to an audience, how a team works best together, and which element a founder brings to their brand (see [Feng Shui for Brands & Business](3a-feng-shui-business.md)).
+In QEA the archetypes help us understand the people we build for and with: how to speak to an audience, how a team works best together, and which element a founder brings to their brand (see [Brands & Business](apply-brands.md)).
 
 | Element | Gift | Challenge | Balanced by |
 |---|---|---|---|
@@ -56,11 +56,11 @@ They often choose to serve, and many great healers are rich in Earth: they make 
 
 ## In a Product
 
-- **Words:** speak to the element of your audience: precise and calm for Metal, deep and unhurried for Water, visionary for Wood, joyful for Fire, warm and safe for Earth (see [Words](5-words.md)).
+- **Words:** speak to the element of your audience: precise and calm for Metal, deep and unhurried for Water, visionary for Wood, joyful for Fire, warm and safe for Earth (see [Words](4-words.md)).
 - **Teams:** a team in balance carries all five: Wood starts, Fire connects, Earth holds, Metal finishes, Water reflects.
 - **Never a box:** the archetypes describe energies, not people. Never sort, rank or label users by them.
 
 ---
 Source: [holdenqigong.com, What's Your Five Elements Personality Archetype?](https://www.holdenqigong.com/blog/whats-your-five-elements-personality-archetype)
 
-[← Feng Shui for Brands & Business](3a-feng-shui-business.md) · [Symbols →](4-symbols.md)
+[← Elements](7-elements.md) · [Time & Rhythm →](8-time-rhythm.md)

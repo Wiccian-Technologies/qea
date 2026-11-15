@@ -14,13 +14,13 @@ An aligned product is in harmony not only with the people it serves but with the
 
 Every page, image and film uses energy in data centres and devices.
 
-- **Light pages:** compressed images in aligned sizes (see [Images & Films](7-images-films.md)), few scripts, no autoplay.
+- **Light pages:** compressed images in aligned sizes (see [Images & Films](apply-images-films.md)), few scripts, no autoplay.
 - **Green hosting:** servers powered by renewable energy where you can choose.
 - **Less is more:** delete what is no longer used: old files, stale pages, unused code.
 
 ## Honest Design
 
-- **No dark patterns:** no tricks, no hidden costs, no false scarcity, no pressure (see [Words](5-words.md)).
+- **No dark patterns:** no tricks, no hidden costs, no false scarcity, no pressure (see [Words](4-words.md)).
 - **Respect for data:** collect only what is needed, ask clearly, keep it safe, and never sell it.
 - **Calm attention:** no endless feeds, no notifications that aren't needed; let people leave easily.
 
@@ -31,4 +31,4 @@ Every page, image and film uses energy in data centres and devices.
 - **Leave it better:** after an event at the beach or in the forest, leave the place cleaner than you found it.
 
 ---
-[← Before You Create](before-you-create.md) · [Numbers →](1-numbers.md)
+[← Principles](principles.md) · [Before You Create →](before-you-create.md)

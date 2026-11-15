@@ -1,8 +1,8 @@
-# 3 ✦ Elements & Seasons
+# 7 ✦ Elements
 
 ∞ ∞ ∞
 
-Every person, brand and product has a dominant element, and every time of year has one too. QEA reads the elements present, balances them, and lets colours and rhythms follow the seasons.
+Every person, brand, product and place has a dominant element. QEA reads the elements present and brings them into balance. The seasons of each element are on [Time & Rhythm](8-time-rhythm.md#the-seasons), their directions on [Place & Direction](9-place-direction.md), their shapes on [Shapes & Symbols](3-shapes-symbols.md).
 
 Two traditions are used side by side. They are different maps of the same living world; don't force one onto the other.
 
@@ -59,7 +59,7 @@ In Chinese tradition the five elements are five phases of one transforming energ
 | **Metal** | swords, axes, jewellery, gold, silver, iron, copper, coins, bells                       |
 | **Water** | ponds, swimming pools, fountains, lakes, seas, aquariums, mirrors and glass             |
 
-Going deeper: [Feng Shui for Brands & Business](3a-feng-shui-business.md) (logos, colours, layout, the Bagua, the element of each industry, the owner's Bazi) and [The Five Element Personalities](3b-element-personalities.md).
+Going deeper: [The Five Element Personalities](7a-element-personalities.md), [Brands & Business](apply-brands.md) (logos, the element of each industry, the owner's Bazi) and [The Bagua](9-place-direction.md#the-bagua).
 
 ### How the Elements Relate: the Cycles
 
@@ -119,54 +119,5 @@ To balance with colour:
 
 Earth, Water and Fire share their names and meanings. Air lives in both **Wood** (wind, movement, spring) and **Metal** (breath, clarity, autumn). Ether is the space that holds all five phases.
 
-## The Seasons
-
-Each season carries its element's energy. A brand, a campaign or a product can breathe with the year: a seasonal palette, a seasonal photograph, an offer that fits the season's energy, a release planned at its start.
-
-| Season      | Element | Energy                    | Good for                         |
-| ----------- | ------- | ------------------------- | -------------------------------- |
-| Spring      | Wood    | awakening, growth         | launches, beginnings, learning   |
-| Summer      | Fire    | fullness, joy, visibility | events, celebrations, being seen |
-| Late summer | Earth   | harvest, nourishment      | gathering, gratitude, community  |
-| Autumn      | Metal   | clarity, letting go       | reviews, simplifying, finishing  |
-| Winter      | Water   | rest, depth               | reflection, planning, inner work |
-
-### Seasons around the World
-
-The five seasons follow the temperate north. Wherever you are, follow the rhythm of the place where your people live.
-
-- **Southern hemisphere:** the seasons are reversed. Spring begins in September, summer in December, autumn in March, winter in June.
-- **Tropics and near the equator:** there are often two seasons, wet and dry, rather than four. Map the local rhythm to the element whose energy fits:
-
-| Local season | Energy | Element |
-|---|---|---|
-| Start of the rains | renewal, growth | Wood |
-| Height of the dry, sunny season | fullness, visibility, celebration | Fire |
-| Harvests | nourishment, gathering | Earth |
-| End of a season, a clearing storm | letting go, clarity | Metal |
-| Heavy rains, a quiet time | rest, depth, reflection | Water |
-
-**An example, the Riviera Maya (Mexico):** the dry season (about November to April) is bright and full of visitors: a time for events and being seen (Fire). The rainy season (about May to October) brings growth and green (Wood), with a quieter, inward time at its height and during hurricane season (Water). Local festivals and harvests are moments of gathering (Earth).
-
-- **Feng Shui directions:** in the classic tradition Fire lives in the south, where the sun stands at noon in the northern hemisphere. In the southern hemisphere some practitioners place Fire in the north, towards the sun, and Water in the south. Choose one way for a project and follow it throughout.
-- **Local traditions first:** where a place has its own calendar and festivals (the Maya calendar, harvest feasts, the solstices), honour them alongside these.
-
-### A Palette for Each Season
-
-Six colours per season, all aligned. Deep colours carry text on light backgrounds; light ones are surfaces. Data in [`palette/seasons.json`](../palette/seasons.json), CSS in [`palette/seasons.css`](../palette/seasons.css).
-
-| Season · Element        | Deep                                                                              | Middle                                                      | Light                                          |
-| ----------------------- | --------------------------------------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------- |
-| **Spring · Wood**       | Deep Fern `#2e6b39`                                                               | Leaf `#5f9b4d` · Fresh Shoot `#a8d08c` · Blossom `#f4c6d1`  | Spring Sky `#cfe6f4` · Morning Light `#f6f9ed` |
-| **Summer · Fire**       | Ember `#9c2a1e`                                                                   | Coral `#e8735b` · Hibiscus `#d94f79` · Sun Orange `#f29e3e` | Sunflower `#fbd969` · Warm Light `#fff4e9`     |
-| **Late Summer · Earth** | Umber `#6b4a2c`                                                                   | Terracotta `#b5643d` · Ochre `#c9962d` · Sand `#e8d3a9`     | Wheat `#f3e6c4` · Clay Light `#faf3e6`         |
-| **Autumn · Metal**      | Graphite `#3d3f44` · Rust `#9b4a23`                                               | Burnished Gold `#b08d3d` · Silver `#a9aeb3`                 | Pearl `#ecebe7` · Clear White `#fbfbf8`        |
-| **Winter · Water**      | Night Ink `#0b1321` · Midnight `#14213d` · Deep Water `#1f4e7a` · Slate `#4a5d73` |                                                             | Ice `#cfe0ee` · Frost `#eef3f8`                |
-
-Text-safe on white (4.5 : 1 or more): Deep Fern, Ember, Umber, Graphite, Rust and all the winter deeps. Middle colours are for large text, icons, illustrations and surfaces; check contrast for anything else.
-
-A season's palette can be the whole look (a seasonal campaign) or one accent added to a brand's own palette for that time of year. Keep the brand's text and action colours steady all year, so people always find their way.
-
-***
-
-[← Colours](2-colours.md) · [Symbols →](4-symbols.md)
+---
+[← Touch, Scent & Taste](6-touch-scent-taste.md) · [The Five Element Personalities →](7a-element-personalities.md)

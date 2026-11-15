@@ -15,12 +15,12 @@ Everything we make carries the frequency of the person who makes it. Following t
 
 - **Clear it.** A tidy desk and a clean screen: close what you don't need.
 - **Bring in nature.** Daylight, fresh air, a plant, water to drink.
-- **Set the tone.** Silence, or quiet music tuned to 432 Hz (see [Sound & Music](6-sound-music.md)).
+- **Set the tone.** Silence, or quiet music tuned to 432 Hz (see [Sound & Music](5-sound-music.md)).
 
 ## The Team
 
 - **Begin together.** Open a project or a meeting with a moment of silence or a shared intention.
-- **Speak from the heart.** Honest, kind and clear (see [Words](5-words.md)); every voice is heard.
+- **Speak from the heart.** Honest, kind and clear (see [Words](4-words.md)); every voice is heard.
 - **Close together.** End with gratitude for what was made, and let go of what didn't work.
 
 ## Daily Practices
@@ -41,4 +41,4 @@ If you wish to be aligned with quantum technology, [HerzEnergy](https://herzworl
 These are practices, not medical treatments: listen to your body, and never use them instead of professional care (see [Practices, Not Promises](principles.md#practices-not-promises)).
 
 ---
-[← Principles](principles.md) · [Care for the Earth →](care-for-the-earth.md)
+[← Care for the Earth](care-for-the-earth.md) · [Numbers & Proportion →](1-numbers-proportion.md)

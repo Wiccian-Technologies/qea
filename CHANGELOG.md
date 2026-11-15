@@ -1,5 +1,16 @@
 # Changelog
 
+## 2.0.0 ✦ 15 Nov 2026
+
+A new structure: nine qualities in three families of three, and the places where they come together.
+
+- **I. Form:** 1 Numbers & Proportion (with the rule of thirds and the golden ratio), 2 Colours & Light (with a new section on light), 3 Shapes & Symbols (with the shapes of the elements and "shape carries energy").
+- **II. Vibration:** 4 Words, 5 Sound & Music, 6 Touch, Scent & Taste.
+- **III. Nature:** 7 Elements (with the personalities), **8 Time & Rhythm** (new: every rhythm in one place: durations, the day, the moon, the seasons and seasons around the world, the stars, aligned dates, rhythms of growth), **9 Place & Direction** (new: reading the place, Feng Shui and Vastu directions side by side, balance in a room, the centre, the Bagua, the Vastu mandala).
+- **Where QEA Lives:** Digital Products & Code, Images & Films, Brands & Business, Products & Print, Spaces & Architecture, Experiences & Events (new).
+- **Install QEA** (new): without code, nothing to install; with code, three steps (`npm install github:Wiccian-Technologies/qea`, the palette, `npx qea-check src/`), with help when something doesn't work.
+- The Quick Start, Principles, checklist, README and table of contents follow the new structure; every page links to the one before and after it.
+
 ## 1.5.1 ✦ 15 Nov 2026
 
 - Before You Create: daily practices (sunrise and gentle sungazing, breath and movement, nourishing the pineal gland, reflection) and alignment with quantum technology through HerzEnergy.
