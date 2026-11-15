@@ -28,7 +28,7 @@ QEA has **nine dimensions** in three families: **Form** (numbers, colours, shape
 
 ## Using the Tools
 
-No code? Nothing to install. Building with code? Three steps: [Install QEA](install.md).
+QEA works without any tools: you can apply everything by hand. Building with code? Installing the tools makes it faster and easier, especially with an AI assistant: [Install QEA](install.md).
 
 ## Need Help?
 

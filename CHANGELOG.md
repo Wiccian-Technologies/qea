@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.1.1 ✦ 15 Nov 2026
+
+- Install, Quick Start and README: QEA works by hand without installing anything; the tools make it faster and easier, especially with an AI assistant.
+
 ## 2.1.0 ✦ 15 Nov 2026
 
 - **Open source:** texts, drawings and palettes under CC BY-SA 4.0, tools under MIT (`LICENSE.md`, `LICENSE`).

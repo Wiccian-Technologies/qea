@@ -2,7 +2,7 @@
 
 ∞ ∞ ∞
 
-Anybody can use QEA, and most people need nothing installed: read it, understand it, apply it. The tools are an extra for people who build with code. Pick the way that fits you.
+Anybody can use QEA, and **nothing needs to be installed for QEA to work**: read it, understand it, and apply it by hand to your own work. Installing the tools makes it faster and easier, especially today, when an AI assistant can apply and check QEA in your code for you. Pick the way that fits you.
 
 ## Without Code: Nothing to Install
 
@@ -17,6 +17,8 @@ That's all.
 ## With Code: Three Steps
 
 For websites, apps and anything built with code. It takes about three minutes.
+
+**With an AI assistant:** give it this page and the [Quick Start](quick-start.md), and ask it to install QEA and align your project. It can follow the three steps below for you.
 
 **You need** Node.js 20 or newer. To see if you have it, type `node -v` in a terminal. If you see `v20` or higher, you're ready. If not, install it from [nodejs.org](https://nodejs.org).
 

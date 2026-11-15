@@ -18,7 +18,7 @@ The result is coherence: a product where every part feels as if it belongs, calm
 
 ## Start Here
 
-**Anybody can use QEA, and nothing needs to be installed.** Read it, understand it, and apply it to your own work. The values here are guidelines and show how we use them; make them your own.
+**Anybody can use QEA, and nothing needs to be installed.** Read it, understand it, and apply it by hand to your own work. Installing the tools makes it faster and easier, especially with an AI assistant, but it's never needed. The values here are guidelines and show how we use them; make them your own.
 
 ✦ **New?** Read the [Quick Start](docs/quick-start.md): QEA on one page.
 ✦ **Building with code?** [Install QEA](docs/install.md) in three steps.
