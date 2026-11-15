@@ -87,6 +87,7 @@ Run it in your CI as well, so every change stays aligned (see [Digital Products 
 1. On GitHub, open [Wiccian-Technologies/qea](https://github.com/Wiccian-Technologies/qea), click **Code**, then **Download ZIP**.
 2. Copy the `palette` and `tools` folders into your project.
 3. Run `node tools/qea-check.mjs src/`.
+4. In your CSS, import the palette by its path instead: `@import "./palette/starter.css";`
 
 ## If Something Doesn't Work
 
@@ -94,7 +95,8 @@ Run it in your CI as well, so every change stays aligned (see [Digital Products 
 |---|---|
 | `command not found: node` or `npm` | Install Node.js from [nodejs.org](https://nodejs.org), then open a new terminal. |
 | `npm ERR!` with "404" or "permission" | Your GitHub account needs access to the repository, or use **Download ZIP**. |
-| `Usage: node tools/qea-check.mjs …` | Add the folder to check at the end, like `npx qea-check src/`. |
+| `Tell QEA which folder to check` | Add the folder to check at the end, like `npx qea-check src/`. |
+| `Can't find "src/"` | Your code is in another folder. Use its name, like `npx qea-check app/`. |
 | Anything else | Ask [Wiccian](https://wiccian.io): we're glad to help, or to implement QEA for you. |
 
 ---

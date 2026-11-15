@@ -5,7 +5,7 @@
 // --colours / --numbers check only one kind; --strong asks numbers to divide by 9. Exit code 1 when something is
 // found, so it can run in CI. A line ending in `qea-ignore` (any comment style) is skipped: use it for standards,
 // third-party values and measured copies (docs/principles.md, "When other values win").
-import { readdirSync, readFileSync, statSync } from "node:fs";
+import { existsSync, readdirSync, readFileSync, statSync } from "node:fs";
 import { extname, join } from "node:path";
 import { alignHex, isAlignedHex, isAlignedNumber, nearestAligned } from "./qea.mjs";
 
@@ -13,8 +13,14 @@ const args = process.argv.slice(2);
 const flags = new Set(args.filter((a) => a.startsWith("--")));
 const paths = args.filter((a) => !a.startsWith("--"));
 if (paths.length === 0) {
-  console.log("Usage: node tools/qea-check.mjs <files or folders …> [--colours] [--numbers] [--strong]");
+  console.log("Tell QEA which folder to check, like this:  npx qea-check src/");
+  console.log("(Options: --colours, --numbers, --strong)");
   process.exit(0);
+}
+const missing = paths.filter((p) => !existsSync(p));
+if (missing.length > 0) {
+  for (const p of missing) console.log(`Can't find "${p}". Check the name, or use the folder your code lives in.`);
+  process.exit(2);
 }
 const checkColours = !flags.has("--numbers") || flags.has("--colours");
 const checkNumbers = !flags.has("--colours") || flags.has("--numbers");
