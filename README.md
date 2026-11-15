@@ -2,7 +2,7 @@
 
 ∞ ∞ ∞
 
-**QEA** is an open framework for builders (designers, developers, writers and product teams) who want everything they create to come from one clear intention. It aligns the free choices in a product (sizes, timings, colours, words, symbols, sounds, pictures, code and spaces) with the numbers **3 · 6 · 9**, the elements, the seasons and the frequencies of sound, while keeping every standard that makes a product usable, accessible and legal.
+**QEA** is a framework for builders (designers, developers, writers and product teams) who want everything they create to come from one clear intention. It aligns the free choices in a product (sizes, timings, colours, words, symbols, sounds, pictures, code and spaces) with the numbers **3 · 6 · 9**, the elements, the seasons and the frequencies of sound, while keeping every standard that makes a product usable, accessible and legal.
 
 > *"Vibrate at the right frequency within, and everything will flow and fall into place on the outside."*
 
@@ -18,7 +18,7 @@ The result is coherence: a product where every part feels as if it belongs, calm
 
 ## The Nine Dimensions
 
-Start with [Everything Is Energy](docs/universal-laws.md) and the [Principles](docs/principles.md), then:
+New here? Begin with the [Quick Start](docs/quick-start.md). Then read [Everything Is Energy](docs/universal-laws.md), the [Principles](docs/principles.md), [Before You Create](docs/before-you-create.md) and [Care for the Earth](docs/care-for-the-earth.md), and then:
 
 | | Dimension | In short |
 |---|---|---|
@@ -30,11 +30,11 @@ Start with [Everything Is Energy](docs/universal-laws.md) and the [Principles](d
 | 6 | [Sound & Music](docs/6-sound-music.md) | 432 Hz, Solfeggio frequencies, rhythm, the sounds of the elements, sound in products |
 | 7 | [Images & Films](docs/7-images-films.md) | Sizes, lengths, compression and quiet integration |
 | 8 | [Code](docs/8-code.md) | Aligned constants, tokens, tests and intention comments |
-| 9 | [Products, Spaces & Experiences](docs/9-products-spaces.md) | Physical products, rooms and venues, sessions and events, [architecture](docs/9a-architecture.md) |
+| 9 | [Products, Spaces & Experiences](docs/9-products-spaces.md) | Physical products, rooms and venues, sessions and events, [architecture](docs/9a-architecture.md), [touch, scent and taste](docs/9b-senses.md) |
 
-Before anything goes out: [the review of all nine](docs/checklist.md).
+Before anything goes out: [Testing Resonance](docs/testing-resonance.md) and [the review of all nine](docs/checklist.md). Afterwards: [Keeping It Aligned](docs/keeping-aligned.md). Words explained: [Glossary](docs/glossary.md).
 
-A worked example: [Applying QEA to a Web Product](examples/web-product.md).
+Worked examples: [a Web Product](examples/web-product.md), [a Retreat Space](examples/retreat-space.md), [an Event Flyer](examples/event-flyer.md).
 
 ## Palettes
 
@@ -60,4 +60,4 @@ A line that must keep a standard value ends in a `qea-ignore` comment, so the ch
 
 ---
 
-✦ QEA is published by [Wiccian](https://wiccian.io). © 2026 Wiccian. All rights reserved.
+✦ QEA is published by [Wiccian](https://wiccian.io). © 2026 Wiccian. All rights reserved. You may use it freely to build your own work, or hire Wiccian to implement it for you: see the [Licence](LICENSE.md).

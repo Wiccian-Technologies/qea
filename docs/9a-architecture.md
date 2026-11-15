@@ -56,4 +56,4 @@ Founded in the 1970s by Dr. Ibrahim Karim, an Egyptian architect, it describes i
 - These are practices, not scientifically established facts. Never promise health, protection or money effects (see [Practices, Not Promises](principles.md#practices-not-promises)).
 
 ---
-[← Products, Spaces & Experiences](9-products-spaces.md) · [Before It Goes Out →](checklist.md)
+[← Products, Spaces & Experiences](9-products-spaces.md) · [Touch, Scent & Taste →](9b-senses.md)

@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.5.0 ✦ 15 Nov 2026
+
+- **Licence:** all rights reserved by Wiccian; free to use QEA to build your own work, or hire Wiccian to implement it.
+- **Quick Start:** QEA on one page, in nine steps.
+- **Before You Create:** the maker's own frequency, the space and the team.
+- **Care for the Earth:** natural and fair materials, light digital products, honest design and respect for data, low-waste spaces and events.
+- **Touch, Scent & Taste:** the senses up close, by element and season.
+- **Testing Resonance:** feeling it, muscle testing, dowsing, bioresonance and asking the people.
+- **Keeping It Aligned:** a rhythm of care for products, spaces and brands, and retiring with gratitude.
+- **Seasons around the World:** the southern hemisphere, the tropics with their wet and dry seasons (with the Riviera Maya as an example) and Feng Shui directions south of the equator.
+- **Glossary**, and two new worked examples: a retreat space and an event flyer.
+- The checklist now covers the maker, the Earth, buildings, the senses and resonance.
+
 ## 1.4.0 ✦ 15 Nov 2026
 
 - **Architecture:** a new page under Products, Spaces & Experiences. The traditions it draws on (Feng Shui, Vastu Shastra, sacred geometry, geomancy, building biology, BioGeometry) and what to align through the life of a building, from the land to moving in.

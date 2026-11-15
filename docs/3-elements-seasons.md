@@ -131,7 +131,25 @@ Each season carries its element's energy. A brand, a campaign or a product can b
 | Autumn      | Metal   | clarity, letting go       | reviews, simplifying, finishing  |
 | Winter      | Water   | rest, depth               | reflection, planning, inner work |
 
-**Where you are matters.** In the southern hemisphere the seasons are reversed (spring from September). Near the equator, follow the local rhythm (rainy and dry seasons, harvests, festivals) and map it to the element whose energy fits.
+### Seasons around the World
+
+The five seasons follow the temperate north. Wherever you are, follow the rhythm of the place where your people live.
+
+- **Southern hemisphere:** the seasons are reversed. Spring begins in September, summer in December, autumn in March, winter in June.
+- **Tropics and near the equator:** there are often two seasons, wet and dry, rather than four. Map the local rhythm to the element whose energy fits:
+
+| Local season | Energy | Element |
+|---|---|---|
+| Start of the rains | renewal, growth | Wood |
+| Height of the dry, sunny season | fullness, visibility, celebration | Fire |
+| Harvests | nourishment, gathering | Earth |
+| End of a season, a clearing storm | letting go, clarity | Metal |
+| Heavy rains, a quiet time | rest, depth, reflection | Water |
+
+**An example, the Riviera Maya (Mexico):** the dry season (about November to April) is bright and full of visitors: a time for events and being seen (Fire). The rainy season (about May to October) brings growth and green (Wood), with a quieter, inward time at its height and during hurricane season (Water). Local festivals and harvests are moments of gathering (Earth).
+
+- **Feng Shui directions:** in the classic tradition Fire lives in the south, where the sun stands at noon in the northern hemisphere. In the southern hemisphere some practitioners place Fire in the north, towards the sun, and Water in the south. Choose one way for a project and follow it throughout.
+- **Local traditions first:** where a place has its own calendar and festivals (the Maya calendar, harvest feasts, the solstices), honour them alongside these.
 
 ### A Palette for Each Season
 
