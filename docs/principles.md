@@ -39,6 +39,10 @@ A product made with QEA is created with the energies that support it:
 - **Universally aligned design:** numbers, colours, elements, symbols and sacred geometry in resonance with 3 · 6 · 9.
 - **High-frequency code:** the technology itself is written with aligned values and clear intention (see [Digital Products & Code](apply-digital.md)).
 
+## Your Own Resonance
+
+QEA is an open starting base, not a set of commandments. The numbers, colours, symbols and rhythms in it are **guidelines**: they show how we at Wiccian use them. Everyone is free to make QEA their own: work with the numbers you resonate with, your own colours, the symbols and traditions of your culture, the rhythms of the place where you live. Trust your own feeling (see [Testing Resonance](testing-resonance.md)). What matters is the intention and the coherence, not the exact value.
+
 ## Free Choices Only
 
 QEA applies to **free choices**: values a designer, writer or developer picks. It never overrides a value that has a reason of its own.

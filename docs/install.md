@@ -2,7 +2,7 @@
 
 ∞ ∞ ∞
 
-There are two ways to use QEA. Pick the one that fits you.
+Anybody can use QEA, and most people need nothing installed: read it, understand it, apply it. The tools are an extra for people who build with code. Pick the way that fits you.
 
 ## Without Code: Nothing to Install
 
@@ -97,7 +97,7 @@ Run it in your CI as well, so every change stays aligned (see [Digital Products 
 | `npm ERR!` with "404" or "permission" | Your GitHub account needs access to the repository, or use **Download ZIP**. |
 | `Tell QEA which folder to check` | Add the folder to check at the end, like `npx qea-check src/`. |
 | `Can't find "src/"` | Your code is in another folder. Use its name, like `npx qea-check app/`. |
-| Anything else | Ask [Wiccian](https://wiccian.io): we're glad to help, or to implement QEA for you. |
+| Anything else | Write to [info@wiccian.io](mailto:info@wiccian.io): we're glad to help, or to implement QEA for you. |
 
 ---
 [← Quick Start](quick-start.md) · [Everything Is Energy →](universal-laws.md)

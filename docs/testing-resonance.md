@@ -18,7 +18,7 @@ With a pendulum or dowsing rods, a trained dowser can test options, materials an
 
 ## Bioresonance
 
-Bioresonance technology, such as Wiccian's own and TimeWaver, analyses and balances the frequencies of a person, a project, a product or a place. Wiccian uses it to test how a brand, a product or a space resonates, and to align it further. Ask [Wiccian](https://wiccian.io) for a resonance test. For yourself, [HerzEnergy](https://herzworld.one/herzenergy) offers bioresonance subscriptions for frequencies and alignment calls.
+Bioresonance technology, such as Wiccian's own and TimeWaver, analyses and balances the frequencies of a person, a project, a product or a place. Wiccian uses it to test how a brand, a product or a space resonates, and to align it further. Ask Wiccian for a resonance test at [info@wiccian.io](mailto:info@wiccian.io). For yourself, [HerzEnergy](https://herzworld.one/herzenergy) offers bioresonance subscriptions for frequencies and alignment calls.
 
 ## Ask the People
 

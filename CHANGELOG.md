@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.1.0 ✦ 15 Nov 2026
+
+- **Open source:** texts, drawings and palettes under CC BY-SA 4.0, tools under MIT (`LICENSE.md`, `LICENSE`).
+- **Your Own Resonance** (Principles): the values are guidelines; everyone is free to make QEA their own. Anybody can use QEA without installing anything.
+- Contact for questions and implementation: info@wiccian.io.
+
 ## 2.0.1 ✦ 15 Nov 2026
 
 - Shapes & Symbols: nine core symbols. New: ☉ the sun, ☽ the moon with its phases ● ◐ ○ ◑, and the spiral turning to the left (drawn, `.gitbook/assets/spiral-left.svg`).

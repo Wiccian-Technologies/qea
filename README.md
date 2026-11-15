@@ -18,6 +18,8 @@ The result is coherence: a product where every part feels as if it belongs, calm
 
 ## Start Here
 
+**Anybody can use QEA, and nothing needs to be installed.** Read it, understand it, and apply it to your own work. The values here are guidelines and show how we use them; make them your own.
+
 ✦ **New?** Read the [Quick Start](docs/quick-start.md): QEA on one page.
 ✦ **Building with code?** [Install QEA](docs/install.md) in three steps.
 ✦ **Going deeper?** [Everything Is Energy](docs/universal-laws.md), the [Principles](docs/principles.md), [Care for the Earth](docs/care-for-the-earth.md) and [Before You Create](docs/before-you-create.md).
@@ -77,4 +79,4 @@ In code, `@wiccian/qea` gives `isAlignedNumber`, `nearestAligned`, `isAlignedHex
 
 ---
 
-✦ QEA is published by [Wiccian](https://wiccian.io). © 2026 Wiccian. All rights reserved. You may use it freely to build your own work, or hire Wiccian to implement it for you: see the [Licence](LICENSE.md).
+✦ QEA is open source, published by [Wiccian](https://wiccian.io): texts under CC BY-SA 4.0, tools under MIT (see the [Licence](LICENSE.md)). Questions, or would you like Wiccian to implement QEA for you? Write to [info@wiccian.io](mailto:info@wiccian.io).

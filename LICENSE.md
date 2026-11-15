@@ -2,27 +2,34 @@
 
 ∞ ∞ ∞
 
-© 2026 Wiccian. All rights reserved.
+**QEA is open source.** It is a free starting base for everyone who wants to create in resonance.
 
-QEA is made to be used. Wiccian keeps the rights to the framework, its texts, drawings, palettes and tools, and invites you to build with it.
+## Use It Your Way
 
-## You May
+Anybody can use QEA. You don't need to install anything, sign up or ask: read it, understand it, and apply it to your own work. The values in QEA are **guidelines**, and they show how we at Wiccian use it. Make it your own: choose the numbers, colours, symbols and rhythms that you resonate with (see [Your Own Resonance](docs/principles.md#your-own-resonance)).
 
-- **Use QEA in your own work, free of charge:** design, build and sell your own products, websites, apps, spaces, events and experiences with it, for yourself or for your clients.
-- **Use the palettes and tools** (`palette/`, `tools/`) inside your own projects and their code.
-- **Quote short parts** of the framework, with the source: *"QEA Framework by Wiccian, wiccian.io"*.
-- **Say that your work is aligned with QEA.**
+## The Licences
 
-## Please Don't
+- **The framework's texts, drawings and palettes** (`docs/`, `examples/`, `palette/`, `.gitbook/assets/`, the README): [Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+- **The tools and code** (`tools/`): the [MIT Licence](LICENSE).
 
-- Republish, translate or sell the framework itself, or large parts of it, as your own framework, course or book.
-- Present your work as made, certified or endorsed by Wiccian when it isn't.
-- Remove this notice from copies of the palettes and tools.
+In plain words, you may:
 
-For anything beyond this, ask us: we're glad to hear from you.
+- **Use it** for anything, also commercially: your products, websites, spaces, events, courses and client work.
+- **Change it, translate it and build on it**, and share your own version.
+- **Copy and share it**, in parts or as a whole.
 
-## Wiccian Can Do It for You
+And we ask two things:
 
-Wiccian implements QEA for companies, teams and communities: brands, digital products, spaces and buildings, events and programmes, including resonance testing with Wiccian's bioresonance technology. Get in touch at [wiccian.io](https://wiccian.io).
+1. **Name the source:** *"Based on the QEA Framework by Wiccian, wiccian.io"*, with a link.
+2. **Share alike:** when you publish your own version of the framework's texts, share it under the same licence (CC BY-SA 4.0), so it stays open for everyone. Your own products made with QEA are yours; this only applies to versions of the framework itself.
+
+The names "QEA" and "Wiccian" stay Wiccian's: please don't present your work as made, certified or endorsed by Wiccian when it isn't.
+
+## Questions and Implementation
+
+For questions, or if you'd like Wiccian to implement QEA for your brand, products, spaces, buildings or events, including resonance testing with Wiccian's bioresonance technology, write to **[info@wiccian.io](mailto:info@wiccian.io)**.
 
 To be aligned yourself with quantum technology, see [HerzEnergy](https://herzworld.one/herzenergy): bioresonance subscriptions for frequencies and alignment calls.
+
+© 2026 Wiccian

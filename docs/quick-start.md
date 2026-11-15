@@ -4,6 +4,8 @@
 
 New to QEA? Here it is on one page. Everything else is detail.
 
+Anybody can use QEA. You don't need to install anything: read it, understand it, and apply it to your own work. The values are guidelines, so make them your own (see [Your Own Resonance](principles.md#your-own-resonance)).
+
 ## The Idea
 
 Everything is energy. Everything we make (a page, a product, a room, an event) carries a frequency. QEA helps us choose that frequency on purpose, so that every part comes from one clear intention and feels calm, whole and trustworthy.
@@ -30,7 +32,7 @@ No code? Nothing to install. Building with code? Three steps: [Install QEA](inst
 
 ## Need Help?
 
-Look up a word in the [Glossary](glossary.md), see a [worked example](../examples/web-product.md), or let [Wiccian](https://wiccian.io) implement QEA for you.
+Look up a word in the [Glossary](glossary.md), see a [worked example](../examples/web-product.md), or let Wiccian implement QEA for you: [info@wiccian.io](mailto:info@wiccian.io).
 
 ---
 [← Overview](../README.md) · [Install QEA →](install.md)
