@@ -30,7 +30,7 @@ Start with [Everything Is Energy](docs/universal-laws.md) and the [Principles](d
 | 6 | [Sound & Music](docs/6-sound-music.md) | 432 Hz, Solfeggio frequencies, rhythm, the sounds of the elements, sound in products |
 | 7 | [Images & Films](docs/7-images-films.md) | Sizes, lengths, compression and quiet integration |
 | 8 | [Code](docs/8-code.md) | Aligned constants, tokens, tests and intention comments |
-| 9 | [Products, Spaces & Experiences](docs/9-products-spaces.md) | Physical products, rooms and venues, sessions and events |
+| 9 | [Products, Spaces & Experiences](docs/9-products-spaces.md) | Physical products, rooms and venues, sessions and events, [architecture and BioGeometry](docs/9a-architecture-biogeometry.md) |
 
 Before anything goes out: [the review of all nine](docs/checklist.md).
 

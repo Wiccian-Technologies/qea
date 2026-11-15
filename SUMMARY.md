@@ -17,6 +17,7 @@
 * [7 ✦ Images & Films](docs/7-images-films.md)
 * [8 ✦ Code](docs/8-code.md)
 * [9 ✦ Products, Spaces & Experiences](docs/9-products-spaces.md)
+  * [Architecture & BioGeometry](docs/9a-architecture-biogeometry.md)
 
 ## Using QEA
 

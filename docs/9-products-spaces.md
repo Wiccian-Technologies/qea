@@ -19,7 +19,7 @@ Apps, websites and tools carry every other dimension at once: aligned numbers an
 
 ## Spaces
 
-Shops, studios, offices and event venues.
+Shops, studios, offices and event venues. For buildings in planning and BioGeometry, see [Architecture & BioGeometry](9a-architecture-biogeometry.md).
 
 - **Feng Shui directions:** Wood in the east, Fire in the south, Earth in the centre, Metal in the west, Water in the north; place colours, materials and shapes where their element lives.
 - **Balance:** a space with too much of one element feels it (a room of glass and steel is very Metal: add wood and plants; a dark, damp room is very Water: add warm light and earth tones).
@@ -65,4 +65,4 @@ Flyers, invitations and printed materials carry the code of their moment: the da
 Dates are a free choice only where they are ours: a client's deadline, a public holiday or the law keeps its date.
 
 ---
-[← Code](8-code.md) · [Before It Goes Out →](checklist.md)
+[← Code](8-code.md) · [Architecture & BioGeometry →](9a-architecture-biogeometry.md)

@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.4.0 ✦ 15 Nov 2026
+
+- **Architecture & BioGeometry:** a new page under Products, Spaces & Experiences. BioGeometry's core principles in short (shape carries energy, BG3 and the centre, proportion, the Physics of Quality, balancing the environment) and how QEA applies them to digital products, videos and photos, physical spaces and offices.
+- Principles: BioGeometry among the practices.
+
 ## 1.3.0 ✦ 12 Nov 2026
 
 - **Everything Is Energy:** the seven universal laws QEA respects (Perpetual Transmutation of Energy, Vibration with the Law of Attraction, Relativity, Polarity, Rhythm, Cause and Effect, Gender), each with what it means when we build.

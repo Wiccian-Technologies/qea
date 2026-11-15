@@ -19,4 +19,4 @@ A review of the nine dimensions before something goes out: a page, a release, a 
 ✦ When all nine are met, it is aligned. ✦
 
 ---
-[← Products, Spaces & Experiences](9-products-spaces.md) · [Overview](../README.md)
+[← Architecture & BioGeometry](9a-architecture-biogeometry.md) · [Overview](../README.md)

@@ -65,7 +65,7 @@ Lines of 1 or 2 px are physical pixels, not design choices. They stay.
 
 ## Practices, Not Promises
 
-Some dimensions draw on traditions, practices and technologies (sacred geometry, Feng Shui, New Homeopathy, Grabovoi sequences, healing frequencies, the moon and astrology, TimeWaver quantum technology) whose effects are not scientifically established. QEA uses them as intention and as design language. Never present them to your users as medical, financial or guaranteed effects, and never instead of professional care.
+Some dimensions draw on traditions, practices and technologies (sacred geometry, Feng Shui, BioGeometry, New Homeopathy, Grabovoi sequences, healing frequencies, the moon and astrology, TimeWaver quantum technology) whose effects are not scientifically established. QEA uses them as intention and as design language. Never present them to your users as medical, financial or guaranteed effects, and never instead of professional care.
 
 ---
 [← Everything Is Energy](universal-laws.md) · [Numbers →](1-numbers.md)
