@@ -107,7 +107,7 @@ Run it in your CI as well, so every change stays aligned (see [Digital Products 
 | You see | Do this |
 |---|---|
 | `command not found: node` or `npm` | Install Node.js from [nodejs.org](https://nodejs.org), then open a new terminal. |
-| `npm ERR!` with "404" or "permission" | Your GitHub account needs access to the repository, or use **Download ZIP**. |
+| `npm ERR!` with "404" or "permission" | Check your internet connection and the spelling `github:Wiccian-Technologies/qea`, or use **Download ZIP**. |
 | `Tell QEA which folder to check` | Add the folder to check at the end, like `npx qea-check src/`. |
 | `Can't find "src/"` | Your code is in another folder. Use its name, like `npx qea-check app/`. |
 | Anything else | Write to [info@wiccian.io](mailto:info@wiccian.io): we're glad to help, or to implement QEA for you. |

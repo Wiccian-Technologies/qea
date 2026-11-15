@@ -1,6 +1,6 @@
 {
   "name": "@wiccian/qea",
-  "version": "2.1.3",
+  "version": "2.2.0",
   "description": "QEA Framework: Quantum Energy Alignment in nine dimensions (Form, Vibration, Nature): aligned palettes and tools to check a project.",
   "type": "module",
   "private": true,
