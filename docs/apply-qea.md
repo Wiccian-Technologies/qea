@@ -66,6 +66,17 @@ src/style.css:1  16px → 15px
 
 Change each value to one of the suggestions, run the check again, and when you see **✦ All aligned.** you're done.
 
+## On a WordPress Site
+
+QEA changes nothing on its own, so it can't break a WordPress layout. You decide every change, one at a time.
+
+1. **Try it on a copy first.** Most hosts offer a staging site. If yours doesn't, take a backup.
+2. **Add the colours.** Go to **Appearance → Customize → Additional CSS** (or your child theme's `style.css`) and paste the contents of [`palette/starter.css`](../palette/starter.css). It only adds colour names like `--qea-blue`. Nothing on the page changes yet.
+3. **Use them one place at a time.** For example, `.wp-block-button__link { background: var(--qea-blue); }`. Look at the page on a phone and a computer after each change.
+4. **Check the theme (optional).** Download your child theme folder and run `npx qea-check` on it. The check only reads files and never changes them.
+
+**Go gently with** font sizes, spacing and widths across the whole site. Those can shift a layout. Change them for one block at a time, keep your theme's breakpoints, and mark values that must stay with `qea-ignore`. Never edit the parent theme directly: an update would erase your changes.
+
 ## When a Value Must Stay
 
 Some values must stay as they are: a standard size, a value from a partner, a measurement the law sets (see [When Other Values Win](principles.md#when-other-values-win)). End that line with a `qea-ignore` comment and the reason, and the check skips it:

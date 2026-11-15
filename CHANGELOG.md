@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.1.3 ✦ 15 Nov 2026
+
+- The spiral is flipped vertically.
+- Apply QEA: **On a WordPress Site**, how to add QEA safely without breaking the layout.
+
 ## 2.1.2 ✦ 15 Nov 2026
 
 - ||∿ is named **lines and sinus curve**, and ∿ the **sinus curve**, as in Körbler's New Homeopathy.
