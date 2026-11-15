@@ -14,7 +14,7 @@ The words of QEA, in short.
 | **Bazi** | Chinese astrology's "four pillars" of a person's birth, showing their elements. |
 | **BG3** | In BioGeometry, the balancing energy quality found in the centre of living systems and harmonious shapes. |
 | **BioGeometry** | Dr. Ibrahim Karim's practice of balancing energy through shape (see [Architecture](9a-architecture.md)). |
-| **Bioresonance** | Technology that analyses and balances the frequencies of a person, project or place, such as Wiccian's and TimeWaver. |
+| **Bioresonance** | Technology that analyses and balances the frequencies of a person, project or place, such as Wiccian's (offered through [HerzEnergy](https://herzworld.one/herzenergy)) and TimeWaver. |
 | **Brahmasthan** | In Vastu, the open, quiet centre of a building. |
 | **Building biology (Baubiologie)** | The study of how buildings affect our health: natural materials, clean air, little electrosmog. |
 | **Coherence** | When every part of something comes from one intention and fits together. |

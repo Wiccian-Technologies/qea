@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.5.1 ✦ 15 Nov 2026
+
+- Before You Create: daily practices (sunrise and gentle sungazing, breath and movement, nourishing the pineal gland, reflection) and alignment with quantum technology through HerzEnergy.
+- Testing Resonance, Glossary and Licence link to [HerzEnergy](https://herzworld.one/herzenergy).
+
 ## 1.5.0 ✦ 15 Nov 2026
 
 - **Licence:** all rights reserved by Wiccian; free to use QEA to build your own work, or hire Wiccian to implement it.

@@ -23,7 +23,22 @@ Everything we make carries the frequency of the person who makes it. Following t
 - **Speak from the heart.** Honest, kind and clear (see [Words](5-words.md)); every voice is heard.
 - **Close together.** End with gratitude for what was made, and let go of what didn't work.
 
-A small daily practice (meditation, breathing, movement) keeps the maker aligned, and with the maker, the work.
+## Daily Practices
+
+A small daily practice keeps the maker aligned, and with the maker, the work. Many people use practices such as:
+
+- **Sunrise:** greeting the sun as it rises, barefoot on the earth. Some practise sungazing: looking towards the sun only in the first minutes after sunrise or before sunset, starting with a few seconds, and never into the bright sun of the day.
+- **Breath, meditation and movement:** breathing exercises, meditation, yoga or qigong in the morning.
+- **Nourishing the pineal gland:** clean water, natural food, darkness at night and time in nature, which many practices describe as decalcifying and awakening the pineal gland.
+- **Reflection:** at night, looking back on the day with gratitude and setting an intention for tomorrow.
+
+You'll find more of these methods, explained step by step, at [HerzEnergy](https://herzworld.one/herzenergy).
+
+## Aligned with Quantum Technology
+
+If you wish to be aligned with quantum technology, [HerzEnergy](https://herzworld.one/herzenergy), by Wiccian, offers bioresonance subscriptions for frequencies and personal alignment calls.
+
+These are practices, not medical treatments: listen to your body, and never use them instead of professional care (see [Practices, Not Promises](principles.md#practices-not-promises)).
 
 ---
 [← Principles](principles.md) · [Care for the Earth →](care-for-the-earth.md)

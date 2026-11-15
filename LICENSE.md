@@ -24,3 +24,5 @@ For anything beyond this, ask us: we're glad to hear from you.
 ## Wiccian Can Do It for You
 
 Wiccian implements QEA for companies, teams and communities: brands, digital products, spaces and buildings, events and programmes, including resonance testing with Wiccian's bioresonance technology. Get in touch at [wiccian.io](https://wiccian.io).
+
+To be aligned yourself with quantum technology, see [HerzEnergy](https://herzworld.one/herzenergy): bioresonance subscriptions for frequencies and alignment calls.
