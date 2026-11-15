@@ -30,7 +30,7 @@ BioGeometry (see [Spaces & Architecture](apply-spaces.md#biogeometry)) describes
 | ✧ | Open star | The softer accent: a signature after a name (`Meet Anna ✧`), list items in calm texts |
 | ∞ ∞ ∞ | Infinity | The divider under a section title or between sections |
 | ∞ | Infinity (single) | Abundance, the unbroken flow |
-| \|\|∿ | Turning wave | Placed right after a heavy word or pattern, to turn and release it: `limiting beliefs ||∿` (see [Words](4-words.md)) |
+| \|\|∿ | Lines and sine wave | From New Homeopathy (see below). Placed right after a heavy word or pattern, to turn and release it: `limiting beliefs ||∿` (see [Words](4-words.md)) |
 | ♥ | Heart | What is given from the heart; care, gratitude |
 
 ## Sacred Geometry
@@ -56,7 +56,7 @@ New Homeopathy (*Neue Homöopathie*) was developed by the Austrian engineer **Er
 | Y | Ypsilon | strengthens; brings energy to where it's needed |
 | ✕ | Cross | erases or neutralises a disturbing pattern |
 
-QEA's **\|\|∿** draws on this language: lines that balance, followed by the wave that turns.
+QEA's **\|\|∿** draws on this language: lines that balance, followed by the sine wave that turns.
 
 In a product, these signs can live quietly: inside a pattern, an icon's geometry, a printed card, the back of a package, or openly in a wellbeing product whose users know and want them. Learn the signs from a trained practitioner or Körbler's own writings before using them, and describe them as a practice, never as a treatment.
 

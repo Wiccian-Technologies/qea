@@ -36,7 +36,7 @@ The words of QEA, in short.
 | **Token** | A named value in code (a size, a colour, a duration) defined once and used everywhere. |
 | **Vastu Purusha Mandala** | Vastu's 9 × 9 grid of 81 squares laid over a plan, with an open centre (see [Place & Direction](9-place-direction.md#the-vastu-mandala)). |
 | **Vastu Shastra** | India's ancient science of architecture, aligned with the directions and the elements. |
-| **✦ ✧ ∞ ∞ ∞ \|\|∿** | QEA's core symbols: the star, the open star, the divider and the turning wave (see [Shapes & Symbols](3-shapes-symbols.md)). |
+| **✦ ✧ ∞ ∞ ∞ ∞ \|\|∿ ♥** | QEA's six core symbols: the star, the open star, the divider, the single infinity, the lines and sine wave from New Homeopathy, and the heart (see [Shapes & Symbols](3-shapes-symbols.md)). |
 
 ---
 [← Keeping It Aligned](keeping-aligned.md) · [Overview →](../README.md)
