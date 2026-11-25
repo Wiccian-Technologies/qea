@@ -85,15 +85,24 @@ Some values must stay as they are: a standard size, a value from a partner, a me
 .preview { width: 1200px; } /* Open Graph standard qea-ignore */
 ```
 
-## Keep It Checked (Optional)
+## Build It In First
 
-Add the check to your project's `package.json`, so anyone can run it with `npm run qea`:
+QEA works best at the very start of the making, not as a correction at the end. Place it as early as you can, in this order:
+
+1. **Before creating:** read the dimensions the piece touches ([Before You Create](before-you-create.md), [Before It Goes Out](checklist.md)) and plan aligned values before writing any. With an AI assistant, make this a standing project instruction, so it reads QEA before it designs or builds.
+2. **While creating:** let the check run on what was just written. With an AI coding assistant, a hook after each edit can run `qea-check` on the new text and show it the result at once, so it aligns in the same step.
+3. **On every change:** add the check to your lint script, so a change that isn't aligned is not done:
 
 ```json
-"scripts": { "qea": "qea-check src/" }
+"scripts": { "qea": "qea-check src/", "lint": "eslint && qea-check src/" }
 ```
 
-Run it in your CI as well, so every change stays aligned (see [Digital Products & Code](apply-digital.md#tests-that-keep-it-aligned)).
+4. **Before it goes out:** walk the nine dimensions of [Before It Goes Out](checklist.md), and run the check in CI (see [Digital Products & Code](apply-digital.md#tests-that-keep-it-aligned)).
+5. **Now and then:** a full check of everything, older work included (see [Keeping It Aligned](keeping-aligned.md)).
+
+**Copies follow QEA.** When you copy a page or design from elsewhere, keep its story, words and pictures, and move its sizes, spacing, timings and colours to the nearest aligned values rather than copying them one to one.
+
+**Link, don't copy.** Install QEA as a dependency (or point to a shared clone) rather than copying its files, so every project follows when QEA grows.
 
 ## No npm? Download It
 

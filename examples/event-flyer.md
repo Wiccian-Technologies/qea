@@ -31,7 +31,7 @@ Short and warm: *"Welcome the day by the sea."* No pressure, no countdown. A vol
 
 ## Symbols
 
-A sun rising over three waves; ∞ ∞ ∞ as the divider; a Flower of Life at 9 % opacity in the background; quietly, a Grabovoi sequence that fits the intention in the footer.
+A sun rising over three waves; ∞ ∞ ∞ as the divider; a Lotus Flower of Life at 9 % opacity in the background; quietly, a Grabovoi sequence that fits the intention in the footer.
 
 ## Print
 

@@ -22,7 +22,7 @@ Following the [Law of Perpetual Transmutation](universal-laws.md), energy never 
 ## Digital Products
 
 - **Declutter:** remove unused pages, features, files and code; fewer things, each one cared for.
-- **Check alignment:** run `npx qea-check src/` and update the palette or tokens when something new crept in.
+- **Check alignment:** run `npx qea-check src/` over everything now and then, and update the palette or tokens when something crept in. This is the safety net; the real alignment happens while building (see [Build It In First](apply-qea.md#build-it-in-first)).
 - **Listen:** read what people say each season, and let the product grow with them.
 
 ## Retire with Gratitude

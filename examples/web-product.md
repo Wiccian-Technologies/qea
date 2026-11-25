@@ -28,7 +28,7 @@ The home page photograph and one accent colour change with the season where the 
 
 ## Symbols
 
-`✦ Book Your Class ✦` on the main button; ∞ ∞ ∞ under each section title; a Flower of Life at 9 % opacity behind the welcome.
+`✦ Book Your Class ✦` on the main button; ∞ ∞ ∞ under each section title; a Lotus Flower of Life at 9 % opacity behind the welcome.
 
 ## Words
 

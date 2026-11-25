@@ -27,11 +27,12 @@ The words of QEA, in short.
 | **Grabovoi sequence** | A number sequence by Grigori Grabovoi held for an intention; used as written, never rounded. |
 | **Hartmann and Curry grids** | Networks of earth energy lines described in geomancy. |
 | **Intention** | The one sentence of whom something serves and how it should feel. |
+| **Lotus Flower of Life** | Circles of one size turning around one shared centre, 12-fold, like a blossom. QEA uses it instead of the Flower of Life (see [Shapes & Symbols](3-shapes-symbols.md#the-lotus-flower-of-life)). |
 | **Muscle testing** | Using the body's muscle response to compare options (from kinesiology). |
 | **New Homeopathy** | Erich Körbler's practice of balancing energy with simple signs such as lines and the sinus curve. |
 | **qea-ignore** | A comment in code that marks a standard value the check should skip, with its reason. |
 | **Rule of thirds** | Dividing a page, photo or wall into a 3 × 3 grid and placing what matters on its lines. |
-| **Sacred geometry** | Forms and proportions held sacred across cultures: the circle, the Flower of Life, the golden ratio. |
+| **Sacred geometry** | Forms and proportions held sacred across cultures: the circle, the Lotus Flower of Life, the golden ratio. |
 | **Solfeggio frequencies** | Nine tones used in sound healing, such as 528 Hz. |
 | **Token** | A named value in code (a size, a colour, a duration) defined once and used everywhere. |
 | **Vortex mathematics** | Marko Rodin's way of seeing numbers by their digit sums: 1 2 4 8 7 5 as a circuit, 3 and 6 as an axis, 9 as the still centre (see [Numbers & Proportion](1-numbers-proportion.md#why-9-vortex-mathematics)). |

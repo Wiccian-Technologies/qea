@@ -67,7 +67,7 @@ test("every colour follows 369", () => {
 });
 ```
 
-And in CI:
+And on every change, as early as possible: in the editor or the AI assistant's hook while writing, in lint, and in CI (see [Build It In First](apply-qea.md#build-it-in-first)):
 
 ```bash
 npx qea-check src/

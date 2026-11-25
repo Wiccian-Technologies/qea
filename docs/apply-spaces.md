@@ -27,7 +27,7 @@ India's ancient science of architecture. It aligns a building with the direction
 
 ### Sacred Geometry
 
-The proportions and forms found throughout nature and in temples of many cultures: the golden ratio, the circle, the square, the Flower of Life. QEA uses them for the proportions of plans, rooms, windows and details, alongside the 3 · 6 · 9 scale (see [Shapes & Symbols](3-shapes-symbols.md) and [Numbers & Proportion](1-numbers-proportion.md)).
+The proportions and forms found throughout nature and in temples of many cultures: the golden ratio, the circle, the square, the Lotus Flower of Life. QEA uses them for the proportions of plans, rooms, windows and details, alongside the 3 · 6 · 9 scale (see [Shapes & Symbols](3-shapes-symbols.md) and [Numbers & Proportion](1-numbers-proportion.md)).
 
 ### Geomancy
 
